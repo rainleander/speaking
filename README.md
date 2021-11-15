@@ -1,10 +1,12 @@
-## Welcome
-Bacon ipsum dolor amet tongue tenderloin frankfurter burgdoggen landjaeger pastrami pork leberkas brisket shankle bresaola sirloin. Shank tail bacon bresaola. Chicken prosciutto turducken drumstick ball tip pastrami, kevin pork chislic tri-tip swine fatback t-bone ground round. Biltong buffalo pancetta tongue kevin rump. Pastrami shank flank frankfurter, biltong chuck t-bone pork belly leberkas. Drumstick turducken hamburger picanha flank kevin, ham pig sausage ground round swine filet mignon.
+## Rain Leander, AppDev Technical Evangelist
+I am a process oriented, superbly creative, interdisciplinary community liaison with a Bachelor’s in dance and a Master’s in information technology. An epic public speaker, I have disappeared within a box stuffed with swords, created life, and gone skydiving with the Queen.
 
-Landjaeger turkey tri-tip, meatball corned beef venison shank sausage filet mignon prosciutto bacon jerky hamburger. Jowl ham beef ribs chuck pig picanha. Chuck beef ribs picanha, pancetta turducken biltong ball tip pork loin pastrami strip steak. Picanha fatback sausage, jowl sirloin bresaola frankfurter kevin salami chuck chislic t-bone tri-tip ground round. Andouille tri-tip swine spare ribs shoulder capicola rump t-bone beef ribeye shankle.
+Yes, really.
+
+I am an active technical contributor with [CockroachDB](https://github.com/cockroachdb/cockroach), [Tinkerbell](https://tinkerbell.org/), [RDO](http://rdoproject.org/), [Fedora Project](https://getfedora.org/), [OpenStack](https://www.openstack.org/), [TripleO](https://docs.openstack.org/tripleo-docs/latest/), and [DjangoGirls](https://djangogirls.org/) as well as a maintainer of several smaller open source projects like [Equinix Metal's Uniform Standards](https://github.com/packethost/standards), [Non Binary Resources Awesome List](https://github.com/rainleander/nonbinary-resources), and [Cockroach Labs' Developer Success](https://github.com/cockroachlabs/developer-success).
 
 ### Scheduled Engagements
-15nov2021 **LiveStream** Open Source: Planning Session
+* 15nov2021 **LiveStream** Open Source: Planning Session
 
 ### Future Projects
 * [Open Broadcaster Software](https://obsproject.com/)
@@ -19,5 +21,12 @@ Landjaeger turkey tri-tip, meatball corned beef venison shank sausage filet mign
 * [PaperCall Open CFPs](https://www.papercall.io/events?cfps-scope=open&keywords=)
 * [Confs.Tech](https://confs.tech/cfp)
 
-### Something Else
-Kevin hamburger t-bone venison, bresaola doner spare ribs cupim meatloaf beef ribs picanha rump. Pancetta capicola landjaeger flank tail pork swine buffalo prosciutto meatloaf pork chop corned beef porchetta kevin turducken. Tri-tip frankfurter buffalo, pig ham chislic landjaeger brisket picanha. Cupim biltong filet mignon, beef ribs jowl shoulder turducken ground round picanha landjaeger kielbasa sausage pork loin pork chislic. Chislic short ribs burgdoggen rump chuck pork short loin ground round pork chop prosciutto landjaeger kevin doner. Andouille cow landjaeger ribeye rump meatloaf chislic strip steak swine turkey pig salami ham ball tip chuck. Pancetta picanha tenderloin burgdoggen swine doner.
+### Speaking Experience
+* [PRXMTY EMEA Co-Host 2021: Create a Mobile Core Telecom for Breakfast](https://metal.equinix.com/proximity/?wchannelid=ujj9b20qi5&wmediaid=4wtzuvr7w3)
+* [Contributing Today 2021: Mental health in Open Source](https://www.contributing.today/past-sessions/mental-health-in-open-source-panel/)
+* [Live Stream 2021: Open Source: OpenStack on Equinix Metal](https://youtu.be/aYxzd4YjXy4)
+* [She Story Community Day 2021: TheirStory: Rain Leander](https://youtu.be/qJhyc-V-UqQ)
+* [Nightmares On Cloud Street 2020: Your Worst Moments in the Cloud](https://youtu.be/Uz1L1lirun0)
+* [StackConf.eu 2020: Leveraging Procedural Knowledge: From Riding a Bike to Bare Metal Automation](https://youtu.be/LSgWN8rdQ5Q)
+* [DevRelCon Earth 2020: The Four Pillars of Support in Developer Relations](https://youtu.be/P_8DnKN9T0g)
+* [Project Teams Gathering Colorado 2018: RDO Community Liaison Interview](https://youtu.be/E6P-p-HssIw)
