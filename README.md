@@ -1,18 +1,16 @@
 ### Scheduled Engagements
 * 15nov2021 **LiveStream** Open Source: Planning Session
 * 22nov2021 **LiveStream** Open Source: OBS / VDO Ninja
-* 29nov2021 **LiveStream** Open Source: CockroachDB Sample App
-
+* 29nov2021 **LiveStream** Open Source: CockroachDB Sample App: Doctor Who Time Based Recovery
 * 06dec2021 **LiveStream** Open Source: Python Pandas
-* 13dec2021 **LiveStream** Open Source: Heroku / Django
-* 20dec2021 **LiveStream** Open Source: 
-* 27dec2021 **LiveStream** Open Source: CockroachDB Sample App
-
-* 03jan2021 **LiveStream** Open Source: 
-* 10jan2021 **LiveStream** Open Source: 
-* 17jan2021 **LiveStream** Open Source: 
-* 24jan2021 **LiveStream** Open Source: 
-* 31jan2021 **LiveStream** Open Source: CockroachDB Sample App
+* 13dec2021 **LiveStream** Open Source: Heroku / Django / Write a CockroachDB extension to Django
+* 20dec2021 **LiveStream** Open Source: Flask
+* 27dec2021 **LiveStream** Open Source: CockroachDB Sample App: Escape Room Database
+* 03jan2021 **LiveStream** Open Source: Camunda
+* 10jan2021 **LiveStream** Open Source: Circle CI
+* 17jan2021 **LiveStream** Open Source: Apache OpenWhisk
+* 24jan2021 **LiveStream** Open Source: OpenFaaS
+* 31jan2021 **LiveStream** Open Source: CockroachDB Sample App: IoT GreenHouse
 
 ### Future Projects
 * [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
