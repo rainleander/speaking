@@ -2,6 +2,7 @@
 * 15nov2021 **LiveStream** Open Source: Planning Session
 
 ### Future Projects
+* [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
 * [Open Broadcaster Software](https://obsproject.com/)
 * [VDO Ninja](https://docs.vdo.ninja/) 
 * [Circle CI](https://circleci.com/)
