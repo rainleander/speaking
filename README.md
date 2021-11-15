@@ -1,9 +1,13 @@
 ### Scheduled Engagements
 * 15nov2021 **LiveStream** Open Source: Planning Session
+* 19nov2021 **LiveStream** Playing with Roaches: Cookie Run OvenBreak
 * 22nov2021 **LiveStream** Open Source: OBS / VDO Ninja
 * 29nov2021 **LiveStream** Open Source: CockroachDB Sample App: Doctor Who Time Based Recovery
+* 03dec2021 **LiveStream** Playing with Roaches: Roblox
 * 06dec2021 **LiveStream** Open Source: Python Pandas
+* 10dec2021 **LiveStream** Playing with Roaches: Heroic Labs
 * 13dec2021 **LiveStream** Open Source: Heroku / Django / Write a CockroachDB extension to Django
+* 17dec2021 **LiveStream** Playing with Roaches: Cookie Run Puzzle World
 * 20dec2021 **LiveStream** Open Source: Flask
 * 27dec2021 **LiveStream** Open Source: CockroachDB Sample App: Escape Room Database
 * 03jan2021 **LiveStream** Open Source: Camunda
