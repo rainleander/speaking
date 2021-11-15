@@ -27,6 +27,7 @@
 * [Apache OpenWhisk](https://openwhisk.apache.org/)
 * [OpenFaaS](https://docs.openfaas.com/)
 * [List of Open Source Video Games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 
 ### Open CFPs
 * [PaperCall Open CFPs](https://www.papercall.io/events?cfps-scope=open&keywords=)
