@@ -1,10 +1,3 @@
-## Rain Leander, AppDev Technical Evangelist
-I am a process oriented, superbly creative, interdisciplinary community liaison with a Bachelor’s in dance and a Master’s in information technology. An epic public speaker, I have disappeared within a box stuffed with swords, created life, and gone skydiving with the Queen.
-
-Yes, really.
-
-I am an active technical contributor with [CockroachDB](https://github.com/cockroachdb/cockroach), [Tinkerbell](https://tinkerbell.org/), [RDO](http://rdoproject.org/), [Fedora Project](https://getfedora.org/), [OpenStack](https://www.openstack.org/), [TripleO](https://docs.openstack.org/tripleo-docs/latest/), and [DjangoGirls](https://djangogirls.org/) as well as a maintainer of several smaller open source projects like [Equinix Metal's Uniform Standards](https://github.com/packethost/standards), [Non Binary Resources Awesome List](https://github.com/rainleander/nonbinary-resources), and [Cockroach Labs' Developer Success](https://github.com/cockroachlabs/developer-success).
-
 ### Scheduled Engagements
 * 15nov2021 **LiveStream** Open Source: Planning Session
 
@@ -16,6 +9,10 @@ I am an active technical contributor with [CockroachDB](https://github.com/cockr
 * [Camunda](https://camunda.com/)
 * [Python](https://www.python.org/)
 * [CockroachDB](https://www.cockroachlabs.com/docs/cockroachcloud/quickstart.html)
+* [Open Source Serverless Platforms](https://www.redhat.com/sysadmin/get-started-serverless-computing)
+* [Apache OpenWhisk](https://openwhisk.apache.org/)
+* [OpenFaaS](https://docs.openfaas.com/)
+* [List of Open Source Video Games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)
 
 ### Open CFPs
 * [PaperCall Open CFPs](https://www.papercall.io/events?cfps-scope=open&keywords=)
