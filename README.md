@@ -10,6 +10,10 @@ Landjaeger turkey tri-tip, meatball corned beef venison shank sausage filet mign
 * [Open Broadcaster Software](https://obsproject.com/)
 * [VDO Ninja](https://docs.vdo.ninja/) 
 * [Circle CI](https://circleci.com/)
+* [Ansible](https://www.ansible.com/)
+* [Camunda](https://camunda.com/)
+* [Python](https://www.python.org/)
+* [CockroachDB](https://www.cockroachlabs.com/docs/cockroachcloud/quickstart.html)
 
 ### Open CFPs
 * [PaperCall Open CFPs](https://www.papercall.io/events?cfps-scope=open&keywords=)
