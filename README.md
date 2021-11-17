@@ -1,6 +1,6 @@
 ### Future Engagements
 * 19nov2021 **LiveStream** Playing with Roaches: DevSisters
-* 20nov2021 **LiveStream** Escape Room: EXIT The Enchanted Forest
+* 20nov2021 **LiveStream** [Escape Room: EXIT The Enchanted Forest](https://youtu.be/_P4CAUXRvxE)
 * 22nov2021 **LiveStream** Open Source: OBS / VDO Ninja
 * 27nov2021 **LiveStream** Escape Room: Break In Area 51
 * 29nov2021 **LiveStream** Open Source: CockroachDB Sample App
