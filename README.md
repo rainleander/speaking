@@ -2,7 +2,7 @@
 * 19nov2021 **LiveStream** Playing with Roaches: DevSisters
 * 20nov2021 **LiveStream** Escape Room: EXIT The Enchanted Forest
 * 22nov2021 **LiveStream** Open Source: OBS / VDO Ninja
-* 27nov2021 **LiveStream** Escape Room: TBD
+* 27nov2021 **LiveStream** Escape Room: Break In Area 51
 * 29nov2021 **LiveStream** Open Source: CockroachDB Sample App
 * 03dec2021 **LiveStream** Playing with Roaches: Roblox
 * 04dec2021 **LiveStream** Escape Room: EXIT The Cursed Labyrinth
@@ -11,22 +11,22 @@
 * 11dec2021 **LiveStream** Escape Room: EXIT The Gate Between Worlds
 * 13dec2021 **LiveStream** Open Source: Django
 * 17dec2021 **LiveStream** Playing with Roaches: Mythical Games
-* 18dec2021 **LiveStream** Escape Room: TBD
+* 18dec2021 **LiveStream** Escape Room: EXIT Advent Calendar Part I
 * 20dec2021 **LiveStream** Open Source: CockroachDB Sample App
-* 25dec2021 **LiveStream** Escape Room: TBD
-* 01jan2022 **LiveStream** Escape Room: TBD
+* 25dec2021 **LiveStream** Escape Room: EXIT Advent Calendar Part II
+* 01jan2022 **LiveStream** Escape Room: The Initiative
 * 03jan2022 **LiveStream** Open Source: Camunda
 * 07jan2022 **LiveStream** Playing with Roaches: Insights Gaming
-* 08jan2022 **LiveStream** Escape Room: TBD
+* 08jan2022 **LiveStream** Escape Room: Box One
 * 10jan2022 **LiveStream** Open Source: Circle CI
 * 14jan2022 **LiveStream** Playing with Roaches: DevSisters
-* 15jan2022 **LiveStream** Escape Room: TBD
+* 15jan2022 **LiveStream** Escape Room: Break In Alcatraz
 * 17jan2022 **LiveStream** Open Source: Apache OpenWhisk
 * 21jan2022 **LiveStream** Playing with Roaches: Roblox
-* 22jan2022 **LiveStream** Escape Room: TBD
+* 22jan2022 **LiveStream** Escape Room: EXIT The Deserted Lighthouse
 * 24jan2022 **LiveStream** Open Source: OpenFaaS
 * 28jan2022 **LiveStream** Playing with Roaches: Heroic Labs
-* 29jan2022 **LiveStream** Escape Room: TBD
+* 29jan2022 **LiveStream** Escape Room: EXIT The Catacombs of Horror
 * 31jan2022 **LiveStream** Open Source: CockroachDB Sample App
 
 ### Proposed Projects
