@@ -1,23 +1,33 @@
 ### Future Engagements
 * 19nov2021 **LiveStream** Playing with Roaches: DevSisters
+* 20nov2021 **LiveStream** Escape Room: EXIT The Enchanted Forest
 * 22nov2021 **LiveStream** Open Source: OBS / VDO Ninja
+* 27nov2021 **LiveStream** Escape Room: TBD
 * 29nov2021 **LiveStream** Open Source: CockroachDB Sample App: Doctor Who Time Based Recovery
 * 03dec2021 **LiveStream** Playing with Roaches: Roblox
+* 04dec2021 **LiveStream** Escape Room: TBD
 * 06dec2021 **LiveStream** Open Source: Python Pandas
 * 10dec2021 **LiveStream** Playing with Roaches: Heroic Labs
+* 11dec2021 **LiveStream** Escape Room: TBD
 * 13dec2021 **LiveStream** Open Source: Django
 * 17dec2021 **LiveStream** Playing with Roaches: Mythical Games
-* 20dec2021 **LiveStream** Open Source: Flask
-* 27dec2021 **LiveStream** Open Source: CockroachDB Sample App: Escape Room Database
-* 03jan2021 **LiveStream** Open Source: Camunda
-* 07jan2021 **LiveStream** Playing with Roaches: Insights Gaming
-* 10jan2021 **LiveStream** Open Source: Circle CI
-* 14jan2021 **LiveStream** Playing with Roaches: DevSisters
-* 17jan2021 **LiveStream** Open Source: Apache OpenWhisk
-* 21jan2021 **LiveStream** Playing with Roaches: Roblox
-* 24jan2021 **LiveStream** Open Source: OpenFaaS
-* 28jan2021 **LiveStream** Playing with Roaches: Heroic Labs
-* 31jan2021 **LiveStream** Open Source: CockroachDB Sample App: IoT GreenHouse
+* 18dec2021 **LiveStream** Escape Room: TBD
+* 20dec2021 **LiveStream** Open Source: CockroachDB Sample App: Escape Room Database
+* 25dec2021 **LiveStream** Escape Room: TBD
+* 01jan2022 **LiveStream** Escape Room: TBD
+* 03jan2022 **LiveStream** Open Source: Camunda
+* 07jan2022 **LiveStream** Playing with Roaches: Insights Gaming
+* 08jan2022 **LiveStream** Escape Room: TBD
+* 10jan2022 **LiveStream** Open Source: Circle CI
+* 14jan2022 **LiveStream** Playing with Roaches: DevSisters
+* 15jan2022 **LiveStream** Escape Room: TBD
+* 17jan2022 **LiveStream** Open Source: Apache OpenWhisk
+* 21jan2022 **LiveStream** Playing with Roaches: Roblox
+* 22jan2022 **LiveStream** Escape Room: TBD
+* 24jan2022 **LiveStream** Open Source: OpenFaaS
+* 28jan2022 **LiveStream** Playing with Roaches: Heroic Labs
+* 29jan2022 **LiveStream** Escape Room: TBD
+* 31jan2022 **LiveStream** Open Source: CockroachDB Sample App: IoT GreenHouse
 
 ### Proposed Projects
 * [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
