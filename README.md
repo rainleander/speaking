@@ -5,10 +5,10 @@
 * 27nov2021 **LiveStream** Escape Room: TBD
 * 29nov2021 **LiveStream** Open Source: CockroachDB Sample App
 * 03dec2021 **LiveStream** Playing with Roaches: Roblox
-* 04dec2021 **LiveStream** Escape Room: TBD
+* 04dec2021 **LiveStream** Escape Room: EXIT The Cursed Labyrinth
 * 06dec2021 **LiveStream** Open Source: Python Pandas
 * 10dec2021 **LiveStream** Playing with Roaches: Heroic Labs
-* 11dec2021 **LiveStream** Escape Room: TBD
+* 11dec2021 **LiveStream** Escape Room: EXIT The Gate Between Worlds
 * 13dec2021 **LiveStream** Open Source: Django
 * 17dec2021 **LiveStream** Playing with Roaches: Mythical Games
 * 18dec2021 **LiveStream** Escape Room: TBD
