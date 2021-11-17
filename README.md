@@ -19,7 +19,7 @@
 * 28jan2021 **LiveStream** Playing with Roaches: Heroic Labs
 * 31jan2021 **LiveStream** Open Source: CockroachDB Sample App: IoT GreenHouse
 
-### Future Projects
+### Proposed Projects
 * [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
 * [Open Broadcaster Software](https://obsproject.com/)
 * [VDO Ninja](https://docs.vdo.ninja/) 
@@ -38,10 +38,6 @@
 * [Insights Gaming](https://insights.gg/)
 * [Heroic Labs](https://heroiclabs.com/)
 * [Roblox](https://www.roblox.com/)
-
-### Open CFPs
-* [PaperCall Open CFPs](https://www.papercall.io/events?cfps-scope=open&keywords=)
-* [Confs.Tech](https://confs.tech/cfp)
 
 ### Past Engagements
 * [Open Source: Planning Session](https://www.youtube.com/watch?v=zM7fJoFFXLI)
