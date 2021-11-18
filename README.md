@@ -1,10 +1,10 @@
 ### Future Engagements
-* 19nov2021 **LiveStream** Playing with Roaches: DevSisters
+* 19nov2021 **LiveStream** Playing with Roaches: Devsisters
 * 20nov2021 **LiveStream** [Escape Room: EXIT The Enchanted Forest](https://youtu.be/_P4CAUXRvxE)
 * 22nov2021 **LiveStream** Open Source: OBS / VDO Ninja
 * 27nov2021 **LiveStream** Escape Room: Break In Area 51
 * 29nov2021 **LiveStream** Open Source: CockroachDB Sample App
-* 03dec2021 **LiveStream** Playing with Roaches: Roblox
+* 03dec2021 **LiveStream** Playing with Roaches: Devsisters
 * 04dec2021 **LiveStream** Escape Room: EXIT The Cursed Labyrinth
 * 06dec2021 **LiveStream** Open Source: Python Pandas
 * 10dec2021 **LiveStream** Playing with Roaches: Heroic Labs
@@ -16,13 +16,13 @@
 * 25dec2021 **LiveStream** Escape Room: EXIT Advent Calendar Part II
 * 01jan2022 **LiveStream** Escape Room: The Initiative
 * 03jan2022 **LiveStream** Open Source: Camunda
-* 07jan2022 **LiveStream** Playing with Roaches: Insights Gaming
+* 07jan2022 **LiveStream** Playing with Roaches: TBD
 * 08jan2022 **LiveStream** Escape Room: Box One
 * 10jan2022 **LiveStream** Open Source: Circle CI
-* 14jan2022 **LiveStream** Playing with Roaches: DevSisters
+* 14jan2022 **LiveStream** Playing with Roaches: Devsisters
 * 15jan2022 **LiveStream** Escape Room: Break In Alcatraz
 * 17jan2022 **LiveStream** Open Source: Apache OpenWhisk
-* 21jan2022 **LiveStream** Playing with Roaches: Roblox
+* 21jan2022 **LiveStream** Playing with Roaches: TBD
 * 22jan2022 **LiveStream** Escape Room: EXIT The Deserted Lighthouse
 * 24jan2022 **LiveStream** Open Source: OpenFaaS
 * 28jan2022 **LiveStream** Playing with Roaches: Heroic Labs
