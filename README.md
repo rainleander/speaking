@@ -61,6 +61,8 @@
 * [Distributed Database Office Hours: How to tune SQL queries](https://www.youtube.com/watch?v=pZGw4_7SFek)
 * [Developing with CockroachDB: SQL Query Optimizations for Speed & Efficiency](https://www.youtube.com/watch?v=TzqLz9_quqQ)
 * [Database Office Hours](https://www.youtube.com/watch?v=3mz_wEUROiY)
+* [Build a Full Stack Node.js App with CockroachDB](https://www.youtube.com/watch?v=kylplm1lR0g)
+* [Open Source Stream: First PRs with CockroachDB](https://www.youtube.com/watch?v=TrcdNzUXJ-c)
 * [Developing With CockroachDB: The best way to get started with CockroachDB](https://www.youtube.com/watch?v=Apu5UxSYwzU)
 * [Developing Communities: the DevRel Podcast - Advocacy in Open Source Organizations](https://open.spotify.com/episode/4PjS30Dsf9lKBAtuCLhQGo)
 * [PRXMTY EMEA Co-Host 2021: Create a Mobile Core Telecom for Breakfast](https://metal.equinix.com/proximity/?wchannelid=ujj9b20qi5&wmediaid=4wtzuvr7w3)
