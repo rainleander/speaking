@@ -1,5 +1,4 @@
 ### Future Engagements
-* 19nov2021 **LiveStream** Playing with Roaches: Devsisters
 * 20nov2021 **LiveStream** [Escape Room: EXIT The Enchanted Forest](https://youtu.be/_P4CAUXRvxE)
 * 22nov2021 **LiveStream** Open Source: OBS / VDO Ninja
 * 27nov2021 **LiveStream** Escape Room: Break In Area 51
@@ -50,6 +49,7 @@
 * [Roblox](https://www.roblox.com/)
 
 ### Past Engagements
+* [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=KXC3CB3Zjpw)
 * [Open Source: Planning Session](https://www.youtube.com/watch?v=zM7fJoFFXLI)
 * [PRXMTY EMEA Co-Host 2021: Create a Mobile Core Telecom for Breakfast](https://metal.equinix.com/proximity/?wchannelid=ujj9b20qi5&wmediaid=4wtzuvr7w3)
 * [Contributing Today 2021: Mental health in Open Source](https://www.contributing.today/past-sessions/mental-health-in-open-source-panel/)
