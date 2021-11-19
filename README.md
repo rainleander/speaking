@@ -3,13 +3,13 @@
 * 22nov2021 **LiveStream** Open Source: OBS / VDO Ninja
 * 27nov2021 **LiveStream** Escape Room: Break In Area 51
 * 29nov2021 **LiveStream** Open Source: CockroachDB Sample App
-* 03dec2021 **LiveStream** Playing with Roaches: Devsisters
+* 03dec2021 **LiveStream** Playing with Roaches: Mythical Games
 * 04dec2021 **LiveStream** Escape Room: EXIT The Cursed Labyrinth
 * 06dec2021 **LiveStream** Open Source: Python Pandas
 * 10dec2021 **LiveStream** Playing with Roaches: Heroic Labs
 * 11dec2021 **LiveStream** Escape Room: EXIT The Gate Between Worlds
 * 13dec2021 **LiveStream** Open Source: Django
-* 17dec2021 **LiveStream** Playing with Roaches: Mythical Games
+* 17dec2021 **LiveStream** Playing with Roaches: Devsisters
 * 18dec2021 **LiveStream** Escape Room: EXIT Advent Calendar Part I
 * 20dec2021 **LiveStream** Open Source: CockroachDB Sample App
 * 25dec2021 **LiveStream** Escape Room: EXIT Advent Calendar Part II
@@ -44,9 +44,7 @@
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [Devsisters](https://www.devsisters.com/en/)
 * [Mythical Games](https://mythicalgames.com/about)
-* [Insights Gaming](https://insights.gg/)
 * [Heroic Labs](https://heroiclabs.com/)
-* [Roblox](https://www.roblox.com/)
 
 ### Past Engagements
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=KXC3CB3Zjpw)
