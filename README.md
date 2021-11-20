@@ -1,7 +1,7 @@
 ### Future Engagements
 * 20nov2021 **LiveStream** [Escape Room: EXIT The Enchanted Forest](https://youtu.be/_P4CAUXRvxE)
-* 22nov2021 **LiveStream** Open Source: OBS / VDO Ninja
-* 27nov2021 **LiveStream** Escape Room: Break In Area 51
+* 22nov2021 **LiveStream** [Open Source: OBS / VDO Ninja](https://www.youtube.com/watch?v=QBYJoE-_Rig)
+* 27nov2021 **LiveStream** [Escape Room: Break In Area 51](https://youtu.be/QbnXqyHr-NE)
 * 29nov2021 **LiveStream** Open Source: CockroachDB Sample App
 * 03dec2021 **LiveStream** Playing with Roaches: Mythical Games
 * 04dec2021 **LiveStream** Escape Room: EXIT The Cursed Labyrinth
