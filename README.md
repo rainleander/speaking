@@ -4,7 +4,7 @@
 * 29nov2021 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=sjFhBrK_5-E)
 * 03dec2021 **LiveStream** Playing with Roaches: Mythical Games
 * 04dec2021 **LiveStream** [Escape Room: EXIT The Cursed Labyrinth](https://www.youtube.com/watch?v=2yiSRcmoM5o)
-* 06dec2021 **LiveStream** Open Source: Python Pandas
+* 06dec2021 **LiveStream** [Open Source: Python Pandas](https://www.youtube.com/watch?v=k4MKRI0RCYo)
 * 10dec2021 **LiveStream** Playing with Roaches: Heroic Labs
 * 11dec2021 **LiveStream** [Escape Room: EXIT The Gate Between Worlds](https://www.youtube.com/watch?v=SlGeTex093o)
 * 13dec2021 **LiveStream** Open Source: Django
