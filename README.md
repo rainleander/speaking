@@ -6,7 +6,7 @@
 * 04dec2021 **LiveStream** [Escape Room: EXIT The Cursed Labyrinth](https://www.youtube.com/watch?v=2yiSRcmoM5o)
 * 06dec2021 **LiveStream** Open Source: Python Pandas
 * 10dec2021 **LiveStream** Playing with Roaches: Heroic Labs
-* 11dec2021 **LiveStream** Escape Room: EXIT The Gate Between Worlds
+* 11dec2021 **LiveStream** [Escape Room: EXIT The Gate Between Worlds](https://www.youtube.com/watch?v=SlGeTex093o)
 * 13dec2021 **LiveStream** Open Source: Django
 * 17dec2021 **LiveStream** Playing with Roaches: Devsisters
 * 18dec2021 **LiveStream** Escape Room: EXIT Advent Calendar Part I
