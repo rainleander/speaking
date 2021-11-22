@@ -8,7 +8,7 @@
 * 10dec2021 **LiveStream** [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=-hGIM3utOP4)
 * 11dec2021 **LiveStream** [Escape Room: EXIT The Gate Between Worlds](https://www.youtube.com/watch?v=SlGeTex093o)
 * 13dec2021 **LiveStream** Open Source: Django
-* 17dec2021 **LiveStream** Playing with Roaches: Devsisters
+* 17dec2021 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=c5vY6RVJneo)
 * 18dec2021 **LiveStream** [Escape Room: EXIT Advent Calendar Part I](https://www.youtube.com/watch?v=S25cgMP6tDM)
 * 20dec2021 **LiveStream** Open Source: CockroachDB Sample App
 * 25dec2021 **LiveStream** [Escape Room: EXIT Advent Calendar Part II](https://youtu.be/BA7BYxV6Vgs)
