@@ -1,5 +1,4 @@
 ### Future Engagements
-* 27nov2021 **LiveStream** [Escape Room: Break In Area 51](https://www.youtube.com/watch?v=HTjcKvRiuPA)
 * 29nov2021 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=sjFhBrK_5-E)
 * 03dec2021 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=iJNSx6-tXQo)
 * 04dec2021 **LiveStream** [Escape Room: EXIT The Cursed Labyrinth](https://www.youtube.com/watch?v=2yiSRcmoM5o)
