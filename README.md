@@ -26,6 +26,7 @@
 
 ### Proposed Projects
 * [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
+  * [Serverless (beta) Getting Started Hello World: Python, Node.js, Go, Java](https://www.cockroachlabs.com/docs/cockroachcloud/quickstart.html)
 * [Open Broadcaster Software](https://obsproject.com/)
 * [VDO Ninja](https://docs.vdo.ninja/) 
 * [Circle CI](https://circleci.com/)
