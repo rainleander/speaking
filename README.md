@@ -37,7 +37,7 @@
 * [Open Source Serverless Platforms](https://www.redhat.com/sysadmin/get-started-serverless-computing)
 * [Apache OpenWhisk](https://openwhisk.apache.org/)
 * [OpenFaaS](https://docs.openfaas.com/)
-* [List of Open Source Video Games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)
+* [Open Source Video Games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [Devsisters](https://www.devsisters.com/en/)
 * [Mythical Games](https://mythicalgames.com/about)
