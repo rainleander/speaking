@@ -1,5 +1,4 @@
 ### Future Engagements
-* 03dec2021 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=iJNSx6-tXQo)
 * 04dec2021 **LiveStream** [Escape Room: EXIT The Cursed Labyrinth](https://www.youtube.com/watch?v=2yiSRcmoM5o)
 * 06dec2021 **LiveStream** [Open Source: Python Pandas](https://www.youtube.com/watch?v=k4MKRI0RCYo)
 * 08dec2021 **Edgehog Day 2021** [Data on Cloud-native](https://www.edgehogday.com/agenda)
@@ -12,7 +11,7 @@
 * 25dec2021 **LiveStream** [Escape Room: EXIT Advent Calendar Part II](https://youtu.be/BA7BYxV6Vgs)
 * 01jan2022 **LiveStream** Escape Room: The Initiative
 * 03jan2022 **LiveStream** Open Source: Camunda
-* 07jan2022 **LiveStream** Playing with Roaches: TBD
+* 07jan2022 **LiveStream** Playing with Roaches: Mythical Games
 * 08jan2022 **LiveStream** Escape Room: Box One
 * 10jan2022 **LiveStream** Open Source: Circle CI
 * 14jan2022 **LiveStream** Playing with Roaches: Devsisters
