@@ -11,7 +11,7 @@
 * 25dec2021 **LiveStream** [Escape Room: EXIT Advent Calendar Part II](https://youtu.be/BA7BYxV6Vgs)
 * 01jan2022 **LiveStream** Escape Room: The Initiative
 * 03jan2022 **LiveStream** Open Source: Camunda
-* 07jan2022 **LiveStream** Playing with Roaches: Mythical Games
+* 07jan2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=GRtq4LT9UXc)
 * 08jan2022 **LiveStream** Escape Room: Box One
 * 10jan2022 **LiveStream** Open Source: Circle CI
 * 14jan2022 **LiveStream** Playing with Roaches: Devsisters
