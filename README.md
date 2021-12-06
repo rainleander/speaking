@@ -1,6 +1,4 @@
 ### Future Engagements
-* 04dec2021 **LiveStream** [Escape Room: EXIT The Cursed Labyrinth](https://www.youtube.com/watch?v=2yiSRcmoM5o)
-* 06dec2021 **LiveStream** [Open Source: Python Pandas](https://www.youtube.com/watch?v=k4MKRI0RCYo)
 * 08dec2021 **Edgehog Day 2021** [Data on Cloud-native](https://www.edgehogday.com/agenda)
 * 10dec2021 **LiveStream** [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=-hGIM3utOP4)
 * 11dec2021 **LiveStream** [Escape Room: EXIT The Gate Between Worlds](https://www.youtube.com/watch?v=SlGeTex093o)
@@ -44,6 +42,7 @@
 * [Heroic Labs](https://heroiclabs.com/)
 
 ### Past Engagements
+* [Open Source: Python Pandas](https://www.youtube.com/watch?v=k4MKRI0RCYo)
 * [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=sjFhBrK_5-E)
 * [Open Source: OBS / VDO Ninja](https://www.youtube.com/watch?v=4IlgoGCg8tc)
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=KXC3CB3Zjpw)
