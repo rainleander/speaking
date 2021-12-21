@@ -1,7 +1,4 @@
 ### Future Engagements
-* 18dec2021 **LiveStream** [Escape Room: EXIT Advent Calendar Part I](https://www.youtube.com/watch?v=S25cgMP6tDM)
-* 20dec2021 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=JWxWwEjgGDQ)
-* 25dec2021 **LiveStream** [Escape Room: EXIT Advent Calendar Part II](https://youtu.be/BA7BYxV6Vgs)
 * 01jan2022 **LiveStream** Escape Room: The Initiative
 * 03jan2022 **LiveStream** Open Source: Camunda
 * 07jan2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=GRtq4LT9UXc)
@@ -37,6 +34,7 @@
 * [Heroic Labs](https://heroiclabs.com/)
 
 ### Past Engagements
+* [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=JWxWwEjgGDQ)
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=c5vY6RVJneo)
 * [Open Source: Django](https://www.youtube.com/watch?v=Rp1X6uwAs9s)
 * [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=-hGIM3utOP4)
