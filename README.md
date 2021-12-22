@@ -1,5 +1,4 @@
 ### Future Engagements
-* 01jan2022 **LiveStream** Escape Room: The Initiative
 * 03jan2022 **LiveStream** Open Source: Camunda
 * 07jan2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=GRtq4LT9UXc)
 * 08jan2022 **LiveStream** Escape Room: Box One
@@ -7,7 +6,7 @@
 * 14jan2022 **LiveStream** Playing with Roaches: Devsisters
 * 15jan2022 **LiveStream** Escape Room: Break In Alcatraz
 * 17jan2022 **LiveStream** Open Source: Apache OpenWhisk
-* 21jan2022 **LiveStream** Playing with Roaches: TBD
+* 21jan2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 22jan2022 **LiveStream** Escape Room: EXIT The Deserted Lighthouse
 * 24jan2022 **LiveStream** Open Source: OpenFaaS
 * 28jan2022 **LiveStream** Playing with Roaches: Heroic Labs
@@ -17,6 +16,7 @@
 ### Proposed Projects
 * [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
   * [Serverless (beta) Getting Started](https://www.cockroachlabs.com/docs/cockroachcloud/quickstart.html)
+  * [How to build a Complete Webapp with React, TypeScript & CockroachDB](https://www.cockroachlabs.com/blog/react-typescript-cockroachdb-sample-app/)
 * [Open Broadcaster Software](https://obsproject.com/)
 * [VDO Ninja](https://docs.vdo.ninja/) 
 * [Circle CI](https://circleci.com/)
