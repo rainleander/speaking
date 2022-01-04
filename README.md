@@ -1,5 +1,4 @@
 ### Future Engagements
-* 03jan2022 **LiveStream** Open Source: Camunda
 * 07jan2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=GRtq4LT9UXc)
 * 08jan2022 **LiveStream** Escape Room: Box One
 * 10jan2022 **LiveStream** Open Source: Circle CI
@@ -38,7 +37,7 @@
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=c5vY6RVJneo)
 * [Open Source: Django](https://www.youtube.com/watch?v=Rp1X6uwAs9s)
 * [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=-hGIM3utOP4)
-* [Edgehog Day 2021 Data on Cloud-native](https://www.edgehogday.com/agenda)
+* [Edgehog Day 2021 Data on Cloud-native](https://www.youtube.com/watch?v=_bK2JnZqKmE)
 * [Open Source: Python Pandas](https://www.youtube.com/watch?v=k4MKRI0RCYo)
 * [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=sjFhBrK_5-E)
 * [Open Source: OBS / VDO Ninja](https://www.youtube.com/watch?v=4IlgoGCg8tc)
