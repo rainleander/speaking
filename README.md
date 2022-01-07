@@ -1,5 +1,4 @@
 ### Future Engagements
-* 07jan2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=GRtq4LT9UXc)
 * 08jan2022 **LiveStream** Escape Room: Box One
 * 10jan2022 **LiveStream** Open Source: Circle CI
 * 14jan2022 **LiveStream** Playing with Roaches: Devsisters
@@ -33,6 +32,7 @@
 * [Heroic Labs](https://heroiclabs.com/)
 
 ### Past Engagements
+* [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=GRtq4LT9UXc)
 * [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=JWxWwEjgGDQ)
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=c5vY6RVJneo)
 * [Open Source: Django](https://www.youtube.com/watch?v=Rp1X6uwAs9s)
