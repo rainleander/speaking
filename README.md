@@ -21,7 +21,7 @@
 * 21feb2022 **LiveStream** Open Source
 * 25feb2022 **LiveStream** Playing with Roaches
 * 26feb2022 **LiveStream** Escape Room
-* 28feb2022 **LiveStream** Open Source
+* 28feb2022 **LiveStream** Open Source: CockroachDB Sample App
 * 04mar2022 **LiveStream** Playing with Roaches
 * 05mar2022 **LiveStream** Escape Room
 * 07mar2022 **LiveStream** Open Source
@@ -33,7 +33,7 @@
 * 21mar2022 **LiveStream** Open Source
 * 25mar2022 **LiveStream** Playing with Roaches
 * 26mar2022 **LiveStream** Escape Room
-* 28mar2022 **LiveStream** Open Source
+* 28mar2022 **LiveStream** Open Source: CockroachDB Sample App
 
 ### Proposed Projects
 * [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
