@@ -7,7 +7,7 @@
 * 27jan2022 **Conf42: Python 2022** [Regress to Progress: A Child’s Mindset for Growth](https://www.conf42.com/python2022)
 * 28jan2022 **Chaos Carnival** [When Gremlins Play with Cockroaches: A Chaos Experiment](https://chaoscarnival.io/)
 * 28jan2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=KcBxJ924uEA)
-* 29jan2022 **LiveStream** Escape Room: EXIT The Catacombs of Horror
+* 29jan2022 **LiveStream** Escape Room: [EXIT The Catacombs of Horror](https://www.youtube.com/watch?v=CjED6adGNnk)
 * 31jan2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=Im5xC57RX4s)
 * 04feb2022 **LiveStream** Playing with Roaches: Mythical Games
 * 05feb2022 **LiveStream** Escape Room: Space Box
