@@ -42,10 +42,10 @@
 * 16apr2022 **LiveStream** Escape Room: Fort Knox Box
 * 18apr2022 **LiveStream** Open Source: TBD
 * 22apr2022 **LiveStream** Playing with Roaches: Devsisters
-* 23apr2022 **LiveStream** Escape Room: TBD
+* 23apr2022 **LiveStream** Escape Room: The Sunken Treasure
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
 * 29apr2022 **LiveStream** Playing with Roaches: Mythical Games
-* 30apr2022 **LiveStream** Escape Room: TBD
+* 30apr2022 **LiveStream** Escape Room: The Forgotten Island
 
 ### Proposed Projects
 * [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
