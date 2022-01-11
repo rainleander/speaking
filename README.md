@@ -2,7 +2,7 @@
 * 14jan2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=fUiy90DsWoA)
 * 15jan2022 **LiveStream** [Escape Room: Break In Alcatraz](https://www.youtube.com/watch?v=UtcPAd8KJw4)
 * 21jan2022 **LiveStream** Playing with Roaches: Heroic Labs
-* 22jan2022 **LiveStream** Escape Room: EXIT The Deserted Lighthouse
+* 22jan2022 **LiveStream** [Escape Room: EXIT The Deserted Lighthouse](https://www.youtube.com/watch?v=ry-52u0wbvo)
 * 24jan2022 **LiveStream** Open Source: OpenFaaS
 * 27jan2022 **Conf42: Python 2022** [Regress to Progress: A Child’s Mindset for Growth](https://www.conf42.com/python2022)
 * 28jan2022 **Chaos Carnival** [When Gremlins Play with Cockroaches: A Chaos Experiment](https://chaoscarnival.io/)
