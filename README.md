@@ -14,7 +14,7 @@
 * 07feb2022 **LiveStream** Open Source: Chaos Engineering
 * 11feb2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 12feb2022 **LiveStream** Escape Room: The Initiative
-* 14feb2022 **LiveStream** Open Source: 
+* 14feb2022 **LiveStream** Open Source: Heroic Labs
 * 18feb2022 **LiveStream** Playing with Roaches: Devsisters
 * 19feb2022 **LiveStream** Escape Room: EXIT The Advent Calendar
 * 25feb2022 **LiveStream** Playing with Roaches: Mythical Games
@@ -22,30 +22,30 @@
 * 28feb2022 **LiveStream** Open Source: CockroachDB Sample App
 * 04mar2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 05mar2022 **LiveStream** Escape Room: Secret of the Scientist
-* 07mar2022 **LiveStream** Open Source: 
+* 07mar2022 **LiveStream** Open Source: Ansible
 * 11mar2022 **LiveStream** Playing with Roaches: Devsisters
 * 12mar2022 **LiveStream** Escape Room: Kidnapped in Fortune City
-* 14mar2022 **LiveStream** Open Source: 
+* 14mar2022 **LiveStream** Open Source: CockroachDB
 * 18mar2022 **LiveStream** Playing with Roaches: Mythical Games
 * 19mar2022 **LiveStream** Escape Room: EXIT The House of Riddles
-* 21mar2022 **LiveStream** Open Source: 
+* 21mar2022 **LiveStream** Open Source: Circle CI
 * 25mar2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 26mar2022 **LiveStream** Escape Room: The Haunted Roller Coaster
 * 28mar2022 **LiveStream** Open Source: CockroachDB Sample App
 * 01apr2022 **LiveStream** Playing with Roaches: Devsisters
 * 02apr2022 **LiveStream** Escape Room: Treasure Box Mechanical Gears
-* 04apr2022 **LiveStream** Open Source: 
+* 04apr2022 **LiveStream** Open Source: Developer Success
 * 08apr2022 **LiveStream** Playing with Roaches: Mythical Games
 * 09apr2022 **LiveStream** Escape Room: EXIT The Polar Station
-* 11apr2022 **LiveStream** Open Source: 
+* 11apr2022 **LiveStream** Open Source: Python
 * 15apr2022 **LiveStream** Playing with Roaches: Heroic Labs
-* 16apr2022 **LiveStream** Escape Room: 
-* 18apr2022 **LiveStream** Open Source: 
+* 16apr2022 **LiveStream** Escape Room: TBD
+* 18apr2022 **LiveStream** Open Source: TBD
 * 22apr2022 **LiveStream** Playing with Roaches: Devsisters
-* 23apr2022 **LiveStream** Escape Room: 
+* 23apr2022 **LiveStream** Escape Room: TBD
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
 * 29apr2022 **LiveStream** Playing with Roaches: Mythical Games
-* 30apr2022 **LiveStream** Escape Room: 
+* 30apr2022 **LiveStream** Escape Room: TBD
 
 ### Proposed Projects
 * [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
