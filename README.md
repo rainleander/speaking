@@ -21,19 +21,19 @@
 * 26feb2022 **LiveStream** Escape Room: Escape the Room The Cursed Dollhouse
 * 28feb2022 **LiveStream** Open Source: CockroachDB Sample App
 * 04mar2022 **LiveStream** Playing with Roaches: Heroic Labs
-* 05mar2022 **LiveStream** Escape Room: 
+* 05mar2022 **LiveStream** Escape Room: Secret of the Scientist
 * 07mar2022 **LiveStream** Open Source: 
 * 11mar2022 **LiveStream** Playing with Roaches: Devsisters
-* 12mar2022 **LiveStream** Escape Room: 
+* 12mar2022 **LiveStream** Escape Room: EXIT Kidnapped in Fortune City
 * 14mar2022 **LiveStream** Open Source: 
 * 18mar2022 **LiveStream** Playing with Roaches: Mythical Games
-* 19mar2022 **LiveStream** Escape Room: 
+* 19mar2022 **LiveStream** Escape Room: EXIT The House of Riddles
 * 21mar2022 **LiveStream** Open Source: 
 * 25mar2022 **LiveStream** Playing with Roaches: Heroic Labs
-* 26mar2022 **LiveStream** Escape Room: 
+* 26mar2022 **LiveStream** Escape Room: EXIT The Haunted Roller Coaster
 * 28mar2022 **LiveStream** Open Source: CockroachDB Sample App
 * 01apr2022 **LiveStream** Playing with Roaches: Devsisters
-* 02apr2022 **LiveStream** Escape Room: 
+* 02apr2022 **LiveStream** Escape Room: Treasure Box Mechanical Gears
 * 04apr2022 **LiveStream** Open Source: 
 * 08apr2022 **LiveStream** Playing with Roaches: Mythical Games
 * 09apr2022 **LiveStream** Escape Room: 
