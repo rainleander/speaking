@@ -40,7 +40,7 @@
 * 11apr2022 **LiveStream** Open Source: Python
 * 15apr2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 16apr2022 **LiveStream** Escape Room: Fort Knox Box
-* 18apr2022 **LiveStream** Open Source: TBD
+* 18apr2022 **LiveStream** Open Source: Django Girls
 * 22apr2022 **LiveStream** Playing with Roaches: Devsisters
 * 23apr2022 **LiveStream** Escape Room: The Sunken Treasure
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
