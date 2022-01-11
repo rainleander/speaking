@@ -2,12 +2,12 @@
 * 14jan2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=fUiy90DsWoA)
 * 15jan2022 **LiveStream** [Escape Room: Break In Alcatraz](https://www.youtube.com/watch?v=UtcPAd8KJw4)
 * 21jan2022 **LiveStream** [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=60MikAPKYFw)
-* 22jan2022 **LiveStream** [Escape Room: EXIT The Deserted Lighthouse](https://www.youtube.com/watch?v=ry-52u0wbvo)
+* 22jan2022 **LiveStream** [Escape Room: Deserted Lighthouse](https://www.youtube.com/watch?v=ry-52u0wbvo)
 * 24jan2022 **LiveStream** [Open Source: OpenFaaS](https://www.youtube.com/watch?v=oScrKYjgKVE)
 * 27jan2022 **Conf42: Python 2022** [Regress to Progress: A Child’s Mindset for Growth](https://www.conf42.com/python2022)
 * 28jan2022 **Chaos Carnival** [When Gremlins Play with Cockroaches: A Chaos Experiment](https://chaoscarnival.io/)
 * 28jan2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=KcBxJ924uEA)
-* 29jan2022 **LiveStream** Escape Room: [EXIT The Catacombs of Horror](https://www.youtube.com/watch?v=CjED6adGNnk)
+* 29jan2022 **LiveStream** Escape Room: [Catacombs of Horror](https://www.youtube.com/watch?v=CjED6adGNnk)
 * 31jan2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=Im5xC57RX4s)
 * 04feb2022 **LiveStream** Playing with Roaches: Mythical Games
 * 05feb2022 **LiveStream** Escape Room: Space Box
@@ -16,7 +16,7 @@
 * 12feb2022 **LiveStream** Escape Room: The Initiative
 * 14feb2022 **LiveStream** Open Source: Heroic Labs
 * 18feb2022 **LiveStream** Playing with Roaches: Devsisters
-* 19feb2022 **LiveStream** Escape Room: EXIT The Advent Calendar
+* 19feb2022 **LiveStream** Escape Room: Advent Calendar
 * 25feb2022 **LiveStream** Playing with Roaches: Mythical Games
 * 26feb2022 **LiveStream** Escape Room: The Cursed Dollhouse
 * 28feb2022 **LiveStream** Open Source: CockroachDB Sample App
@@ -27,7 +27,7 @@
 * 12mar2022 **LiveStream** Escape Room: Kidnapped in Fortune City
 * 14mar2022 **LiveStream** Open Source: CockroachDB
 * 18mar2022 **LiveStream** Playing with Roaches: Mythical Games
-* 19mar2022 **LiveStream** Escape Room: EXIT The House of Riddles
+* 19mar2022 **LiveStream** Escape Room: House of Riddles
 * 21mar2022 **LiveStream** Open Source: Circle CI
 * 25mar2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 26mar2022 **LiveStream** Escape Room: The Haunted Roller Coaster
@@ -36,7 +36,7 @@
 * 02apr2022 **LiveStream** Escape Room: Treasure Box Mechanical Gears
 * 04apr2022 **LiveStream** Open Source: Developer Success
 * 08apr2022 **LiveStream** Playing with Roaches: Mythical Games
-* 09apr2022 **LiveStream** Escape Room: EXIT The Polar Station
+* 09apr2022 **LiveStream** Escape Room: Polar Station
 * 11apr2022 **LiveStream** Open Source: Python
 * 15apr2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 16apr2022 **LiveStream** Escape Room: Fort Knox Box
