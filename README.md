@@ -13,10 +13,10 @@
 * 05feb2022 **LiveStream** [Escape Room: Space Box](https://www.youtube.com/watch?v=FCUhPrf42YU)
 * 07feb2022 **LiveStream** Open Source: Chaos Engineering
 * 11feb2022 **LiveStream** Playing with Roaches: Heroic Labs
-* 12feb2022 **LiveStream** [Escape Room: The Initiative]()
+* 12feb2022 **LiveStream** [Escape Room: The Initiative](https://www.youtube.com/watch?v=nreTk7azxPI)
 * 14feb2022 **LiveStream** Open Source: Heroic Labs
 * 18feb2022 **LiveStream** Playing with Roaches: Devsisters
-* 19feb2022 **LiveStream** Escape Room: Advent Calendar
+* 19feb2022 **LiveStream** [Escape Room: Advent Calendar](https://www.youtube.com/watch?v=U5Mt0uCdZtc)
 * 25feb2022 **LiveStream** Playing with Roaches: Mythical Games
 * 26feb2022 **LiveStream** Escape Room: The Cursed Dollhouse
 * 28feb2022 **LiveStream** Open Source: CockroachDB Sample App
