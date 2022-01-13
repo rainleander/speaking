@@ -18,9 +18,8 @@
 * 18feb2022 **LiveStream** Playing with Roaches: Devsisters
 * 19feb2022 **LiveStream** [Escape Room: Advent Calendar](https://www.youtube.com/watch?v=U5Mt0uCdZtc)
 * 25feb2022 **LiveStream** Playing with Roaches: Mythical Games
-* 26feb2022 **LiveStream** Escape Room: The Cursed Dollhouse
+* 26feb2022 **LiveStream** [Escape Room: The Cursed Dollhouse](https://www.youtube.com/watch?v=W-ZIMaT1C5w)
 * 28feb2022 **LiveStream** Open Source: CockroachDB Sample App
-* 04mar2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 05mar2022 **LiveStream** Escape Room: Secret of the Scientist
 * 07mar2022 **LiveStream** Open Source: Ansible
 * 11mar2022 **LiveStream** Playing with Roaches: Devsisters
