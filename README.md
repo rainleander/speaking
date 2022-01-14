@@ -1,5 +1,4 @@
 ### Future Engagements
-* 14jan2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=fUiy90DsWoA)
 * 15jan2022 **LiveStream** [Escape Room: Break In Alcatraz](https://www.youtube.com/watch?v=UtcPAd8KJw4)
 * 21jan2022 **LiveStream** [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=60MikAPKYFw)
 * 22jan2022 **LiveStream** [Escape Room: Deserted Lighthouse](https://www.youtube.com/watch?v=ry-52u0wbvo)
@@ -67,6 +66,7 @@
 * [Heroic Labs](https://heroiclabs.com/)
 
 ### Past Engagements
+* [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=fUiy90DsWoA)
 * [Open Source: Camunda](https://www.youtube.com/watch?v=3Jfbrn6TXMk)
 * [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=GRtq4LT9UXc)
 * [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=JWxWwEjgGDQ)
