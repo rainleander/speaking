@@ -8,7 +8,7 @@
 * 28jan2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=KcBxJ924uEA)
 * 29jan2022 **LiveStream** [Escape Room: Catacombs of Horror](https://www.youtube.com/watch?v=CjED6adGNnk)
 * 31jan2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=Im5xC57RX4s)
-* 04feb2022 **LiveStream** Playing with Roaches: Mythical Games
+* 04feb2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=LvX1KgwGRL4)
 * 05feb2022 **LiveStream** [Escape Room: Space Box](https://www.youtube.com/watch?v=FCUhPrf42YU)
 * 07feb2022 **LiveStream** Open Source: Chaos Engineering
 * 11feb2022 **LiveStream** Playing with Roaches: Heroic Labs
