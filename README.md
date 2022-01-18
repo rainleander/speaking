@@ -77,6 +77,7 @@
 * [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=sjFhBrK_5-E)
 * [Open Source: OBS / VDO Ninja](https://www.youtube.com/watch?v=4IlgoGCg8tc)
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=KXC3CB3Zjpw)
+* [DevOps Party Games - I Just Deployed Kubernetes And Boy Are My Arms Tired](https://devopspartygames.com/episodes/s03e04)
 * [Open Source: Planning Session](https://www.youtube.com/watch?v=zM7fJoFFXLI)
 * [Developing with CockroachDB: Office Hours](https://www.youtube.com/watch?v=2xmMRjdmnkg)
 * [Developing with CockroachDB: JSON Optimization](https://www.youtube.com/watch?v=Nl0QNj63beU)
