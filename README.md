@@ -1,5 +1,4 @@
 ### Future Engagements
-* 22jan2022 **LiveStream** [Escape Room: Deserted Lighthouse](https://www.youtube.com/watch?v=ry-52u0wbvo)
 * 24jan2022 **LiveStream** [Open Source: OpenFaaS](https://www.youtube.com/watch?v=oScrKYjgKVE)
 * 27jan2022 **Conf42: Python 2022** [Regress to Progress: A Child’s Mindset for Growth](https://www.conf42.com/python2022)
 * 28jan2022 **Chaos Carnival** [When Gremlins Play with Cockroaches: A Chaos Experiment](https://chaoscarnival.io/)
