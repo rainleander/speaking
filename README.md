@@ -1,7 +1,4 @@
 ### Future Engagements
-* 27jan2022 **Conf42: Python 2022** [Regress to Progress: A Child’s Mindset for Growth](https://www.conf42.com/python2022)
-* 28jan2022 **Chaos Carnival** [When Gremlins Play with Cockroaches: A Chaos Experiment](https://chaoscarnival.io/)
-* 28jan2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=KcBxJ924uEA)
 * 29jan2022 **LiveStream** [Escape Room: Catacombs of Horror](https://www.youtube.com/watch?v=CjED6adGNnk)
 * 31jan2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=Im5xC57RX4s)
 * 04feb2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=LvX1KgwGRL4)
@@ -62,6 +59,7 @@
 * [Heroic Labs](https://heroiclabs.com/)
 
 ### Past Engagements
+* [Conf42: Python 2022: Regress to Progress: A Child’s Mindset for Growth](https://www.youtube.com/watch?v=WvQMG0oQYQk)
 * [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=60MikAPKYFw)
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=fUiy90DsWoA)
 * [Open Source: Camunda](https://www.youtube.com/watch?v=3Jfbrn6TXMk)
