@@ -1,8 +1,8 @@
 ### Future Engagements
-* 31jan2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=Im5xC57RX4s)
 * 04feb2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=LvX1KgwGRL4)
 * 05feb2022 **LiveStream** [Escape Room: Space Box](https://www.youtube.com/watch?v=FCUhPrf42YU)
 * 07feb2022 **LiveStream** Open Source: Chaos Engineering
+* 08feb2022 DeveloperWeek [OPEN TALK: The Architecture of a Serverless Database](https://www.developerweek.com/)
 * 11feb2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 12feb2022 **LiveStream** [Escape Room: The Initiative](https://www.youtube.com/watch?v=nreTk7azxPI)
 * 14feb2022 **LiveStream** Open Source: Heroic Labs
@@ -36,6 +36,7 @@
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
 * 29apr2022 **LiveStream** Playing with Roaches: Mythical Games
 * 30apr2022 **LiveStream** Escape Room: The Forgotten Island
+* 18-19may2022 [GlueCon](https://www.gluecon.com/)
 
 ### Proposed Projects
 * [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
@@ -58,6 +59,7 @@
 * [Heroic Labs](https://heroiclabs.com/)
 
 ### Past Engagements
+* [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=Im5xC57RX4s)
 * [Conf42: Python 2022: Regress to Progress: A Child’s Mindset for Growth](https://www.youtube.com/watch?v=WvQMG0oQYQk)
 * [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=60MikAPKYFw)
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=fUiy90DsWoA)
