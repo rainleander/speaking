@@ -36,7 +36,7 @@
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
 * 29apr2022 **LiveStream** Playing with Roaches: Mythical Games
 * 30apr2022 **LiveStream** Escape Room: The Forgotten Island
-* 18-19may2022 [GlueCon](https://www.gluecon.com/)
+* 18-19may2022 [GlueCon](https://www.gluecon.com/) What Exactly IS Serverless, Anyway?
 
 ### Proposed Projects
 * [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
