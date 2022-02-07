@@ -3,8 +3,8 @@
 * 08feb2022 DeveloperWeek [OPEN TALK: The Architecture of a Serverless Database](https://www.developerweek.com/)
 * 11feb2022 **LiveStream** [Playing with Roaches: Heroic Labs](https://youtu.be/ltPagDPXd38)
 * 12feb2022 **LiveStream** [Escape Room: The Initiative](https://www.youtube.com/watch?v=nreTk7azxPI)
-* 14feb2022 **LiveStream** Open Source: Heroic Labs
-* 18feb2022 **LiveStream** Playing with Roaches: Devsisters
+* 14feb2022 **LiveStream** [Open Source: Heroic Labs](https://www.youtube.com/watch?v=vMo4U9fQB2k)
+* 18feb2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=n5ojGvRz1OQ)
 * 19feb2022 **LiveStream** [Escape Room: Advent Calendar](https://www.youtube.com/watch?v=U5Mt0uCdZtc)
 * 25feb2022 **LiveStream** Playing with Roaches: Mythical Games
 * 26feb2022 **LiveStream** [Escape Room: The Cursed Dollhouse](https://www.youtube.com/watch?v=W-ZIMaT1C5w)
