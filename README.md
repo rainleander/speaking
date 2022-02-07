@@ -1,5 +1,5 @@
 ### Future Engagements
-* 07feb2022 **LiveStream** Open Source: Chaos Engineering
+* 07feb2022 **LiveStream** [Open Source: Chaos Engineering](https://www.youtube.com/watch?v=UUMuB_MGqUA)
 * 08feb2022 DeveloperWeek [OPEN TALK: The Architecture of a Serverless Database](https://www.developerweek.com/)
 * 11feb2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 12feb2022 **LiveStream** [Escape Room: The Initiative](https://www.youtube.com/watch?v=nreTk7azxPI)
