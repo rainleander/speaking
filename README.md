@@ -53,6 +53,8 @@
 * [Devsisters](https://www.devsisters.com/en/)
 * [Mythical Games](https://mythicalgames.com/about)
 * [Heroic Labs](https://heroiclabs.com/)
+* [ChaosToolkit](https://chaostoolkit.org/)
+* [AirByte](https://airbyte.com/)
 
 ### Past Engagements
 * [Open Source: Chaos Engineering](https://www.youtube.com/watch?v=UUMuB_MGqUA)
