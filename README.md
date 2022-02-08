@@ -1,5 +1,4 @@
 ### Future Engagements
-* 07feb2022 **LiveStream** [Open Source: Chaos Engineering](https://www.youtube.com/watch?v=UUMuB_MGqUA)
 * 08feb2022 DeveloperWeek [OPEN TALK: The Architecture of a Serverless Database](https://www.developerweek.com/)
 * 11feb2022 **LiveStream** [Playing with Roaches: Heroic Labs](https://youtu.be/ltPagDPXd38)
 * 12feb2022 **LiveStream** [Escape Room: The Initiative](https://www.youtube.com/watch?v=nreTk7azxPI)
@@ -56,6 +55,7 @@
 * [Heroic Labs](https://heroiclabs.com/)
 
 ### Past Engagements
+* [Open Source: Chaos Engineering](https://www.youtube.com/watch?v=UUMuB_MGqUA)
 * [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=LvX1KgwGRL4)
 * [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=Im5xC57RX4s)
 * [Conf42: Python 2022: Regress to Progress: A Child’s Mindset for Growth](https://www.youtube.com/watch?v=WvQMG0oQYQk)
