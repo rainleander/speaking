@@ -56,7 +56,7 @@
 * [AirByte](https://airbyte.com/)
 
 ### Past Engagements
-* [OPEN TALK: The Architecture of a Serverless Database](https://www.developerweek.com/)
+* [DeveloperWeek OPEN TALK: The Architecture of a Serverless Database](https://www.developerweek.com/)
 * [Open Source: Chaos Engineering](https://www.youtube.com/watch?v=UUMuB_MGqUA)
 * [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=LvX1KgwGRL4)
 * [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=Im5xC57RX4s)
