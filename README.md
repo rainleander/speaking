@@ -24,7 +24,8 @@
 * 08apr2022 **LiveStream** Playing with Roaches: Mythical Games
 * 09apr2022 **LiveStream** Escape Room: Polar Station
 * 11apr2022 **LiveStream** Open Source: Python
-* 13apr2022 [Contributing.Today Open Source Databases](https://www.contributing.today/)* 15apr2022 **LiveStream** Playing with Roaches: Heroic Labs
+* 13apr2022 [Contributing.Today](https://www.contributing.today/) Open Source Databases Panel
+* 15apr2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 16apr2022 **LiveStream** Escape Room: Fort Knox Box
 * 22apr2022 **LiveStream** Playing with Roaches: Devsisters
 * 23apr2022 **LiveStream** Escape Room: The Sunken Treasure
