@@ -7,6 +7,7 @@
 * 28feb2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=vVQPDrd5XA8)
 * 05mar2022 **LiveStream** Escape Room: Secret of the Scientist
 * 07mar2022 **LiveStream** Open Source: Ansible
+* 10mar2022 [Conf42: Chaos Engineering](https://www.conf42.com/ce2022) When Gremlins Play With Cockroaches
 * 11mar2022 **LiveStream** Playing with Roaches: Devsisters
 * 12mar2022 **LiveStream** Escape Room: Kidnapped in Fortune City
 * 14mar2022 **LiveStream** Open Source: CockroachDB
@@ -25,6 +26,7 @@
 * 13apr2022 [Contributing.Today](https://www.contributing.today/) Open Source Databases Panel
 * 15apr2022 **LiveStream** Playing with Roaches: Heroic Labs
 * 16apr2022 **LiveStream** Escape Room: Fort Knox Box
+* 19-20apr2022 [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta) Regress to Progress: A Child's Mindset for Growth
 * 22apr2022 **LiveStream** Playing with Roaches: Devsisters
 * 23apr2022 **LiveStream** Escape Room: The Sunken Treasure
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
