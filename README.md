@@ -1,6 +1,5 @@
 ### Future Engagements
 * 18feb2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=n5ojGvRz1OQ)
-* 19feb2022 **LiveStream** [Escape Room: Advent Calendar Part II](https://www.youtube.com/watch?v=U5Mt0uCdZtc)
 * 25feb2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=kqJh9XTOS-8)
 * 26feb2022 **LiveStream** [Escape Room: The Cursed Dollhouse](https://www.youtube.com/watch?v=W-ZIMaT1C5w)
 * 28feb2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=vVQPDrd5XA8)
