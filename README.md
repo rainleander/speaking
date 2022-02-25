@@ -1,5 +1,4 @@
 ### Future Engagements
-* 25feb2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=kqJh9XTOS-8)
 * 26feb2022 **LiveStream** [Escape Room: The Cursed Dollhouse](https://www.youtube.com/watch?v=W-ZIMaT1C5w)
 * 28feb2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=vVQPDrd5XA8)
 * 05mar2022 **LiveStream** Escape Room: Secret of the Scientist
