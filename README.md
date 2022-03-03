@@ -1,6 +1,4 @@
 ### Future Engagements
-* 26feb2022 **LiveStream** [Escape Room: The Cursed Dollhouse](https://www.youtube.com/watch?v=W-ZIMaT1C5w)
-* 28feb2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=vVQPDrd5XA8)
 * 05mar2022 **LiveStream** Escape Room: Secret of the Scientist
 * 07mar2022 **LiveStream** Open Source: Ansible
 * 10mar2022 [Conf42: Chaos Engineering](https://www.conf42.com/ce2022) When Gremlins Play With Cockroaches
@@ -54,6 +52,7 @@
 * [AirByte](https://airbyte.com/)
 
 ### Past Engagements
+* [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=vVQPDrd5XA8)
 * [Playing with Roaches: Heroic Labs](https://youtu.be/ltPagDPXd38)
 * [DeveloperWeek OPEN TALK: The Architecture of a Serverless Database](https://www.developerweek.com/)
 * [Open Source: Chaos Engineering](https://www.youtube.com/watch?v=UUMuB_MGqUA)
