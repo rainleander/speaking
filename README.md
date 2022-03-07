@@ -1,5 +1,4 @@
 ### Future Engagements
-* 07mar2022 **LiveStream** Open Source: Ansible
 * 10mar2022 [Conf42: Chaos Engineering](https://www.conf42.com/ce2022) When Gremlins Play With Cockroaches
 * 11mar2022 **LiveStream** Playing with Roaches: Devsisters
 * 12mar2022 **LiveStream** Escape Room: Kidnapped in Fortune City
@@ -51,6 +50,7 @@
 * [AirByte](https://airbyte.com/)
 
 ### Past Engagements
+* [Open Source: Ansible](https://www.youtube.com/watch?v=BRO4j4t4piI)
 * [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=vVQPDrd5XA8)
 * [Playing with Roaches: Heroic Labs](https://youtu.be/ltPagDPXd38)
 * [DeveloperWeek OPEN TALK: The Architecture of a Serverless Database](https://www.developerweek.com/)
