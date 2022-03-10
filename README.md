@@ -1,13 +1,13 @@
 ### Future Engagements
-* 11mar2022 **LiveStream** Playing with Roaches: Devsisters
+* 11mar2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=5ebT5fjj6FA)
 * 12mar2022 **LiveStream** Escape Room: Kidnapped in Fortune City
-* 14mar2022 **LiveStream** Open Source: CockroachDB
-* 18mar2022 **LiveStream** Playing with Roaches: Mythical Games
+* 14mar2022 **LiveStream** [Open Source: CockroachDB](https://www.youtube.com/watch?v=vthRVctq8jQ)
+* 18mar2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=ONv4XcvXGk8)
 * 19mar2022 **LiveStream** Escape Room: House of Riddles
-* 21mar2022 **LiveStream** Open Source: Circle CI
-* 25mar2022 **LiveStream** Playing with Roaches: Heroic Labs
+* 21mar2022 **LiveStream** [Open Source: Circle CI](https://www.youtube.com/watch?v=MwIGpyT41s4)
+* 25mar2022 **LiveStream** [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=ID6zaL3g82Q)
 * 26mar2022 **LiveStream** Escape Room: The Haunted Roller Coaster
-* 28mar2022 **LiveStream** Open Source: CockroachDB Sample App
+* 28mar2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=IJ3N0C582Gw)
 * 01apr2022 **LiveStream** Playing with Roaches: Devsisters
 * 02apr2022 **LiveStream** Escape Room: Treasure Box Mechanical Gears
 * 04apr2022 **LiveStream** Open Source: Developer Success
