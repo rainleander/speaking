@@ -1,5 +1,4 @@
 ### Future Engagements
-* 14mar2022 **LiveStream** [Open Source: CockroachDB](https://www.youtube.com/watch?v=vthRVctq8jQ)
 * 18mar2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=ONv4XcvXGk8)
 * 21mar2022 **LiveStream** [Open Source: Circle CI](https://www.youtube.com/watch?v=MwIGpyT41s4)
 * 25mar2022 **LiveStream** [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=ID6zaL3g82Q)
@@ -46,6 +45,7 @@
 * [AirByte](https://airbyte.com/)
 
 ### Past Engagements
+* [Open Source: CockroachDB](https://www.youtube.com/watch?v=vthRVctq8jQ)
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=5ebT5fjj6FA)
 * [Conf42: Chaos Engineering](https://www.conf42.com/ce2022) [When Gremlins Play With Cockroaches](https://youtu.be/8H7fI7RF-3M)
 * [Open Source: Ansible](https://www.youtube.com/watch?v=BRO4j4t4piI)
