@@ -4,8 +4,8 @@
 * 25mar2022 **LiveStream** [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=ID6zaL3g82Q)
 * 26mar2022 **LiveStream** [Escape Room: The Initiative Part II](https://www.youtube.com/watch?v=1HM_RbFaPXA)
 * 28mar2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=IJ3N0C582Gw)
-* 01apr2022 **LiveStream** Playing with Roaches: Devsisters
-* 02apr2022 **LiveStream** Escape Room: Treasure Box Mechanical Gears
+* 01apr2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=Ahj-2l32sr4)
+* 02apr2022 **LiveStream** Escape Room: Advent Calendar Part II
 * 04apr2022 **LiveStream** Open Source: Developer Success
 * 08apr2022 **LiveStream** Playing with Roaches: Mythical Games
 * 09apr2022 **LiveStream** Escape Room: Polar Station
