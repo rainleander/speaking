@@ -44,7 +44,7 @@
 * [ChaosToolkit](https://chaostoolkit.org/)
 * [AirByte](https://airbyte.com/)
 
-### Past Engagements
+### Past Engagements 2022
 * [Open Source: CockroachDB](https://www.youtube.com/watch?v=vthRVctq8jQ)
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=5ebT5fjj6FA)
 * [Conf42: Chaos Engineering](https://www.conf42.com/ce2022) [When Gremlins Play With Cockroaches](https://youtu.be/8H7fI7RF-3M)
@@ -60,6 +60,8 @@
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=fUiy90DsWoA)
 * [Open Source: Camunda](https://www.youtube.com/watch?v=3Jfbrn6TXMk)
 * [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=GRtq4LT9UXc)
+
+### Past Engagements 2021
 * [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=JWxWwEjgGDQ)
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=c5vY6RVJneo)
 * [Open Source: Django](https://www.youtube.com/watch?v=Rp1X6uwAs9s)
@@ -91,6 +93,8 @@
 * [Contributing Today 2021: Mental health in Open Source](https://www.contributing.today/past-sessions/mental-health-in-open-source-panel/)
 * [Live Stream 2021: Open Source: OpenStack on Equinix Metal](https://youtu.be/aYxzd4YjXy4)
 * [She Story Community Day 2021: TheirStory: Rain Leander](https://youtu.be/qJhyc-V-UqQ)
+
+### Past Engagements 2020 and older
 * [Nightmares On Cloud Street 2020: Your Worst Moments in the Cloud](https://youtu.be/Uz1L1lirun0)
 * [StackConf.eu 2020: Leveraging Procedural Knowledge: From Riding a Bike to Bare Metal Automation](https://youtu.be/LSgWN8rdQ5Q)
 * [DevRelCon Earth 2020: The Four Pillars of Support in Developer Relations](https://youtu.be/P_8DnKN9T0g)
