@@ -5,7 +5,7 @@
 * 28mar2022 **LiveStream** [Open Source: CockroachDB Sample App](https://www.youtube.com/watch?v=IJ3N0C582Gw)
 * 01apr2022 **LiveStream** [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=Ahj-2l32sr4)
 * 02apr2022 **LiveStream** [Escape Room: Advent Calendar Part II](https://www.youtube.com/watch?v=_moFt9MOw90)
-* 04apr2022 **LiveStream** Open Source: Developer Success
+* 04apr2022 **LiveStream** [Open Source: Developer Success](https://www.youtube.com/watch?v=5emLtd2XBJw)
 * 08apr2022 **LiveStream** Playing with Roaches: Mythical Games
 * 09apr2022 **LiveStream** Escape Room: Polar Station
 * 11apr2022 **LiveStream** Open Source: Python
