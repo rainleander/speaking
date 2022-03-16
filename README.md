@@ -1,5 +1,4 @@
 ### Future Engagements
-* 18mar2022 **LiveStream** [Playing with Roaches: Mythical Games](https://www.youtube.com/watch?v=ONv4XcvXGk8)
 * 21mar2022 **LiveStream** [Open Source: Circle CI](https://www.youtube.com/watch?v=MwIGpyT41s4)
 * 25mar2022 **LiveStream** [Playing with Roaches: Heroic Labs](https://www.youtube.com/watch?v=ID6zaL3g82Q)
 * 26mar2022 **LiveStream** [Escape Room: The Initiative Part II](https://www.youtube.com/watch?v=1HM_RbFaPXA)
