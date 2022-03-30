@@ -1,14 +1,12 @@
 ### Future Engagements
 * 02apr2022 **LiveStream** [Escape Room: Advent Calendar Part II](https://www.youtube.com/watch?v=_moFt9MOw90)
 * 09apr2022 **LiveStream** Escape Room: Polar Station
-* 11apr2022 **LiveStream** Open Source: Python
 * 13apr2022 [Contributing.Today](https://www.contributing.today/) Open Source Databases Panel
 * 16apr2022 **LiveStream** Escape Room: Secret of the Scientist
 * 19-20apr2022 [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta) Regress to Progress: A Child's Mindset for Growth
 * 23apr2022 **LiveStream** Escape Room: The Sunken Treasure
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
 * 30apr2022 **LiveStream** Escape Room: The Forgotten Island
-* 12may2022 [GemCityTech](https://www.meetup.com/gem-city-tech/) What Exactly IS Serverless, Anyway?
 * 18-19may2022 [GlueCon](https://www.gluecon.com/) What Exactly IS Serverless, Anyway?
 
 ### Proposed Projects
