@@ -1,5 +1,4 @@
 ### Future Engagements
-* 02apr2022 **LiveStream** [Escape Room: Advent Calendar Part II](https://www.youtube.com/watch?v=_moFt9MOw90)
 * 09apr2022 **LiveStream** Escape Room: Polar Station
 * 13apr2022 [Contributing.Today](https://www.contributing.today/) Open Source Databases Panel
 * 16apr2022 **LiveStream** Escape Room: Secret of the Scientist
