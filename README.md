@@ -5,6 +5,7 @@
 * 19-20apr2022 [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta) Regress to Progress: A Child's Mindset for Growth
 * 23apr2022 **LiveStream** Escape Room: The Sunken Treasure
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
+* 27apr2022 [DeveloperWeek Europe](https://www.developerweek.com/europe/) Architecture of a Serverless Database
 * 30apr2022 **LiveStream** Escape Room: The Forgotten Island
 * 18-19may2022 [GlueCon](https://www.gluecon.com/) What Exactly IS Serverless, Anyway?
 
