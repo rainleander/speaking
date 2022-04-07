@@ -1,21 +1,28 @@
 ### Future Engagements
-* 09apr2022 **LiveStream** Escape Room: 
+* 09apr2022 **LiveStream** Escape Room 
 * 13apr2022 [Contributing.Today](https://www.contributing.today/) Open Source Databases Panel
 * 19-20apr2022 [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta) Regress to Progress: A Child's Mindset for Growth
-* 23apr2022 **LiveStream** Escape Room: The Sunken Treasure
+* 23apr2022 **LiveStream** Escape Room
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
 * 27apr2022 [DeveloperWeek Europe](https://www.developerweek.com/europe/) Architecture of a Serverless Database
 * 07may2022 **LiveStream** Escape Room
 * 14may2022 **LiveStream** Escape Room
 * 18-19may2022 [GlueCon](https://www.gluecon.com/) What Exactly IS Serverless, Anyway?
 * 28may2022 **LiveStream** Escape Room
+* 30may2022 **LiveStream** Open Source: CockroachDB Sample App
 * 04jun2022 **LiveStream** Escape Room
+* 06jun2022 **LiveStream** Open Source
 * 11jun2022 **LiveStream** Escape Room
+* 13jun2022 **LiveStream** Open Source
 * 18jun2022 **LiveStream** Escape Room
+* 27jun2022 **LiveStream** Open Source: CockroachDB Sample App
 * 02jul2022 **LiveStream** Escape Room
+* 04jul2022 **LiveStream** Open Source
 * 09jul2022 **LiveStream** Escape Room
+* 11jul2022 **LiveStream** Open Source
 * 16jul2022 **LiveStream** Escape Room
 * 23jul2022 **LiveStream** Escape Room
+* 25jul2022 **LiveStream** Open Source: CockroachDB Sample App
 * 30jul2022 **LiveStream** Escape Room
 
 ### Proposed Projects
