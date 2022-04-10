@@ -1,5 +1,4 @@
 ### Future Engagements
-* 09apr2022 **LiveStream** Escape Room 
 * 13apr2022 [Contributing.Today](https://www.contributing.today/) Open Source Databases Panel
 * 19-20apr2022 [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta) Regress to Progress: A Child's Mindset for Growth
 * 23apr2022 **LiveStream** Escape Room
