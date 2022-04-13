@@ -1,5 +1,4 @@
 ### Future Engagements
-* 13apr2022 [Contributing.Today](https://www.contributing.today/) Open Source Databases Panel
 * 19-20apr2022 [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta) Regress to Progress: A Child's Mindset for Growth
 * 23apr2022 **LiveStream** Escape Room
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
@@ -47,6 +46,7 @@
 * [AirByte](https://airbyte.com/)
 
 ### Past Engagements 2022
+* [Contributing.Today](https://www.contributing.today/) [Open Source Databases Panel](https://www.youtube.com/watch?v=ToBTja6W5vI)
 * [Open Source: CockroachDB](https://www.youtube.com/watch?v=vthRVctq8jQ)
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=5ebT5fjj6FA)
 * [Conf42: Chaos Engineering](https://www.conf42.com/ce2022) [When Gremlins Play With Cockroaches](https://youtu.be/8H7fI7RF-3M)
