@@ -1,5 +1,4 @@
 ### Future Engagements
-* 19-20apr2022 [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta) Regress to Progress: A Child's Mindset for Growth
 * 23apr2022 **LiveStream** Escape Room
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
 * 27apr2022 [DeveloperWeek Europe](https://www.developerweek.com/europe/) Architecture of a Serverless Database
@@ -46,6 +45,7 @@
 * [AirByte](https://airbyte.com/)
 
 ### Past Engagements 2022
+* 19-20apr2022 [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta) [Regress to Progress: A Child's Mindset for Growth](https://youtu.be/UND61-TzqSc?t=3479)
 * [Contributing.Today](https://www.contributing.today/) [Open Source Databases Panel](https://www.youtube.com/watch?v=ToBTja6W5vI)
 * [Open Source: CockroachDB](https://www.youtube.com/watch?v=vthRVctq8jQ)
 * [Playing with Roaches: Devsisters](https://www.youtube.com/watch?v=5ebT5fjj6FA)
