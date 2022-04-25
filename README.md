@@ -1,5 +1,4 @@
 ### Future Engagements
-* 23apr2022 **LiveStream** Escape Room
 * 25apr2022 **LiveStream** Open Source: CockroachDB Sample App
 * 27apr2022 [DeveloperWeek Europe](https://www.developerweek.com/europe/) Architecture of a Serverless Database
 * 07may2022 **LiveStream** Escape Room
