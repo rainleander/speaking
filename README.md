@@ -1,5 +1,4 @@
 ### Future Engagements
-* 27apr2022 [DeveloperWeek Europe](https://www.developerweek.com/europe/) Architecture of a Serverless Database
 * 07may2022 **LiveStream** Escape Room
 * 14may2022 **LiveStream** Escape Room
 * 18-19may2022 [GlueCon](https://www.gluecon.com/) What Exactly IS Serverless, Anyway?
@@ -43,6 +42,7 @@
 * [AirByte](https://airbyte.com/)
 
 ### Past Engagements 2022
+* [DeveloperWeek Europe](https://www.developerweek.com/europe/) Architecture of a Serverless Database
 * [Open Source: Repository Requirements](https://youtu.be/WqW-rh5GvwQ)
 * [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta) [Regress to Progress: A Child's Mindset for Growth](https://youtu.be/UND61-TzqSc?t=3479)
 * [Contributing.Today](https://www.contributing.today/) [Open Source Databases Panel](https://www.youtube.com/watch?v=ToBTja6W5vI)
