@@ -6,10 +6,12 @@
 * 30may2022 **LiveStream** Open Source: CockroachDB Sample App
 * 04jun2022 **LiveStream** Escape Room
 * 06jun2022 **LiveStream** Open Source
+* 09jun2022 [Gem City Tech](https://www.meetup.com/gem-city-tech/) What Exactly IS Serverless, Anyway?
 * 11jun2022 **LiveStream** Escape Room
 * 13jun2022 **LiveStream** Open Source
 * 18jun2022 **LiveStream** Escape Room
 * 27jun2022 **LiveStream** Open Source: CockroachDB Sample App
+* jun/jul2022 [Scaling Developer Success](https://scalingdevelopersuccess.buzzsprout.com/)
 * 02jul2022 **LiveStream** Escape Room
 * 04jul2022 **LiveStream** Open Source
 * 09jul2022 **LiveStream** Escape Room
