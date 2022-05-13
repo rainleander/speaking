@@ -1,6 +1,4 @@
 ### Future Engagements
-* 14may2022 **LiveStream** Escape Room
-* 18-19may2022 [GlueCon](https://www.gluecon.com/) What Exactly IS Serverless, Anyway?
 * 28may2022 **LiveStream** Escape Room
 * 30may2022 **LiveStream** Open Source: CockroachDB Sample App
 * 04jun2022 **LiveStream** Escape Room
