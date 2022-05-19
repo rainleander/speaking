@@ -20,28 +20,6 @@
 * 30jul2022 **LiveStream** Escape Room
 * 08-10aug2022 [KCDC](https://www.kcdc.info/) Getting Started: Embrace Your Inner Child
 
-### Proposed Projects
-* [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
-  * [Serverless (beta) Getting Started](https://www.cockroachlabs.com/docs/cockroachcloud/quickstart.html)
-  * [How to build a Complete Webapp with React, TypeScript & CockroachDB](https://www.cockroachlabs.com/blog/react-typescript-cockroachdb-sample-app/)
-* [Open Broadcaster Software](https://obsproject.com/)
-* [VDO Ninja](https://docs.vdo.ninja/) 
-* [Circle CI](https://circleci.com/)
-* [Ansible](https://www.ansible.com/)
-* [Camunda](https://camunda.com/)
-* [Python](https://www.python.org/)
-* [CockroachDB](https://www.cockroachlabs.com/docs/cockroachcloud/quickstart.html)
-* [Open Source Serverless Platforms](https://www.redhat.com/sysadmin/get-started-serverless-computing)
-* [Apache OpenWhisk](https://openwhisk.apache.org/)
-* [OpenFaaS](https://docs.openfaas.com/)
-* [Open Source Video Games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)
-* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-* [Devsisters](https://www.devsisters.com/en/)
-* [Mythical Games](https://mythicalgames.com/about)
-* [Heroic Labs](https://heroiclabs.com/)
-* [ChaosToolkit](https://chaostoolkit.org/)
-* [AirByte](https://airbyte.com/)
-
 ### Past Engagements 2022
 * [DeveloperWeek Europe](https://www.developerweek.com/europe/) Architecture of a Serverless Database
 * [Open Source: Repository Requirements](https://youtu.be/WqW-rh5GvwQ)
