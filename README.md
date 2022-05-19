@@ -17,6 +17,7 @@
 * 23jul2022 **LiveStream** Escape Room
 * 25jul2022 **LiveStream** Open Source: CockroachDB Sample App
 * 30jul2022 **LiveStream** Escape Room
+* 08-10aug2022 [KCDC](https://www.kcdc.info/) Getting Started: Embrace Your Inner Child
 
 ### Proposed Projects
 * [CockroachDB Sample Apps](https://github.com/cockroachdb/sample-apps)
