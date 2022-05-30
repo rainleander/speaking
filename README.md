@@ -1,10 +1,6 @@
 ### Future Engagements
-* 28may2022 **LiveStream** Escape Room
-* 04jun2022 **LiveStream** Escape Room
-* 06jun2022 **LiveStream** Open Source
 * 09jun2022 [Gem City Tech](https://www.meetup.com/gem-city-tech/) What Exactly IS Serverless, Anyway?
 * 11jun2022 **LiveStream** Escape Room
-* 13jun2022 **LiveStream** Open Source
 * 15jun2022 [The Maintainers of OSS](https://www.youtube.com/watch?v=V1Q3xC_EHB0)
 * 18jun2022 **LiveStream** Escape Room
 * 27jun2022 **LiveStream** Open Source: CockroachDB Sample App
