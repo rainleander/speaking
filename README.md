@@ -1,6 +1,4 @@
 ### Future Engagements
-* 11jun2022 **LiveStream** Escape Room
-* 15jun2022 [The Maintainers of OSS](https://www.youtube.com/watch?v=V1Q3xC_EHB0)
 * 18jun2022 **LiveStream** Escape Room
 * 27jun2022 **LiveStream** Open Source: CockroachDB Sample App
 * jun/jul2022 [Scaling Developer Success](https://scalingdevelopersuccess.buzzsprout.com/)
@@ -15,6 +13,8 @@
 * 08-10aug2022 [KCDC](https://www.kcdc.info/) Getting Started: Embrace Your Inner Child
 
 ### Past Engagements 2022
+* [The Maintainers of OSS](https://youtu.be/V1Q3xC_EHB0?t=11640)
+* [Pluralsight Link 2022 DevRel Panel](https://www.youtube.com/watch?v=EDRSvuv0Oa0)
 * [DeveloperWeek Europe](https://www.developerweek.com/europe/) Architecture of a Serverless Database
 * [Open Source: Repository Requirements](https://youtu.be/WqW-rh5GvwQ)
 * [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta) [Regress to Progress: A Child's Mindset for Growth](https://youtu.be/UND61-TzqSc?t=3479)
