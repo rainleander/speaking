@@ -1,5 +1,4 @@
 ### Future Engagements
-* 18jun2022 **LiveStream** Escape Room
 * 27jun2022 **LiveStream** Open Source: CockroachDB Sample App
 * jun/jul2022 [Scaling Developer Success](https://scalingdevelopersuccess.buzzsprout.com/)
 * 02jul2022 **LiveStream** Escape Room
