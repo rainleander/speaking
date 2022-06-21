@@ -1,6 +1,5 @@
 ### Future Engagements
 * 27jun2022 **LiveStream** Open Source: CockroachDB Sample App
-* jun/jul2022 [Scaling Developer Success](https://scalingdevelopersuccess.buzzsprout.com/)
 * 02jul2022 **LiveStream** Escape Room
 * 04jul2022 **LiveStream** Open Source
 * 09jul2022 **LiveStream** Escape Room
@@ -12,6 +11,7 @@
 * 08-10aug2022 [KCDC](https://www.kcdc.info/) Getting Started: Embrace Your Inner Child
 
 ### Past Engagements 2022
+* [Scaling Developer Success by Peritus.ai]([https://scalingdevelopersuccess.buzzsprout.com/](https://scalingdevelopersuccess.buzzsprout.com/1884781/10804371-scaling-developer-success-with-rain-leander-appdev-technical-evangelist-cockroach-labs)
 * [The Maintainers of OSS](https://youtu.be/V1Q3xC_EHB0?t=11640)
 * [Pluralsight Link 2022 DevRel Panel](https://www.youtube.com/watch?v=EDRSvuv0Oa0)
 * [DeveloperWeek Europe](https://www.developerweek.com/europe/) Architecture of a Serverless Database
