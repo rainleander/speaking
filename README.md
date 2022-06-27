@@ -1,14 +1,11 @@
 ### Future Engagements
-* 27jun2022 **LiveStream** Open Source: CockroachDB Sample App
 * 02jul2022 **LiveStream** Escape Room
-* 04jul2022 **LiveStream** Open Source
 * 09jul2022 **LiveStream** Escape Room
-* 11jul2022 **LiveStream** Open Source
 * 16jul2022 **LiveStream** Escape Room
 * 23jul2022 **LiveStream** Escape Room
-* 25jul2022 **LiveStream** Open Source: CockroachDB Sample App
 * 30jul2022 **LiveStream** Escape Room
 * 08-10aug2022 [KCDC](https://www.kcdc.info/) Getting Started: Embrace Your Inner Child
+* 25-26aug2022 [DevOpsDays Detroit](https://devopsdays.org/events/2022-detroit/welcome/) Getting Started: Embrace Your Inner Child
 
 ### Past Engagements 2022
 * [Scaling Developer Success by Peritus.ai](https://scalingdevelopersuccess.buzzsprout.com/1884781/10804371-scaling-developer-success-with-rain-leander-appdev-technical-evangelist-cockroach-labs)
