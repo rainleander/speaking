@@ -5,6 +5,7 @@
 * 25-26aug2022 [DevOpsDays Detroit](https://devopsdays.org/events/2022-detroit/welcome/) Getting Started: Embrace Your Inner Child
 
 ### Past Engagements 2022
+* [Building a Sustainable Career in Tech](https://twitter.com/i/spaces/1gqxvllgNgkGB?s=20)
 * [Scaling Developer Success by Peritus.ai](https://scalingdevelopersuccess.buzzsprout.com/1884781/10804371-scaling-developer-success-with-rain-leander-appdev-technical-evangelist-cockroach-labs)
 * [The Maintainers of OSS](https://youtu.be/V1Q3xC_EHB0?t=11640)
 * [Pluralsight Link 2022 DevRel Panel](https://www.youtube.com/watch?v=EDRSvuv0Oa0)
