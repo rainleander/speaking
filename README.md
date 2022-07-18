@@ -1,7 +1,4 @@
 ### Future Engagements
-* 02jul2022 **LiveStream** Escape Room
-* 09jul2022 **LiveStream** Escape Room
-* 16jul2022 **LiveStream** Escape Room
 * 23jul2022 **LiveStream** Escape Room
 * 30jul2022 **LiveStream** Escape Room
 * 08-10aug2022 [KCDC](https://www.kcdc.info/) Getting Started: Embrace Your Inner Child
