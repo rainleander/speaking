@@ -1,5 +1,4 @@
 ### Future Engagements
-* 23jul2022 **LiveStream** Escape Room
 * 30jul2022 **LiveStream** Escape Room
 * 08-10aug2022 [KCDC](https://www.kcdc.info/) Getting Started: Embrace Your Inner Child
 * 25-26aug2022 [DevOpsDays Detroit](https://devopsdays.org/events/2022-detroit/welcome/) Getting Started: Embrace Your Inner Child
