@@ -1,7 +1,27 @@
 ### Future Engagements
-* 30jul2022 **LiveStream** Escape Room
+* 06aug2022 **LiveStream** Escape Room
 * 08-10aug2022 [KCDC](https://www.kcdc.info/) Getting Started: Embrace Your Inner Child
+* 13aug2022 **LiveStream** Escape Room
+* 20aug2022 **LiveStream** Escape Room
 * 25-26aug2022 [DevOpsDays Detroit](https://devopsdays.org/events/2022-detroit/welcome/) Getting Started: Embrace Your Inner Child
+* 27aug2022 **LiveStream** Escape Room
+* 03sep2022 **LiveStream** Escape Room
+* 05sep2022 **LiveStream** Open Source Stream
+* 10sep2022 **LiveStream** Escape Room
+* 12sep2022 **LiveStream** Open Source Stream
+* 17sep2022 **LiveStream** Escape Room
+* 19sep2022 **LiveStream** Open Source Stream
+* 24sep2022 **LiveStream** Escape Room
+* 26sep2022 **LiveStream** Open Source Stream
+* 01oct2022 **LiveStream** Escape Room
+* 03oct2022 **LiveStream** Open Source Stream
+* 08oct2022 **LiveStream** Escape Room
+* 10oct2022 **LiveStream** Open Source Stream
+* 15oct2022 **LiveStream** Escape Room
+* 17oct2022 **LiveStream** Open Source Stream
+* 22oct2022 **LiveStream** Escape Room
+* 24oct2022 **LiveStream** Open Source Stream
+* 29oct2022 **LiveStream** Escape Room
 
 ### Past Engagements 2022
 * [Building a Sustainable Career in Tech](https://twitter.com/i/spaces/1gqxvllgNgkGB?s=20)
