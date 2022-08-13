@@ -1,29 +1,19 @@
 ### Future Engagements
-* 06aug2022 **LiveStream** Escape Room
-* 08-10aug2022 [KCDC](https://www.kcdc.info/) Getting Started: Embrace Your Inner Child
 * 13aug2022 **LiveStream** Escape Room
 * 20aug2022 **LiveStream** Escape Room
-* 25-26aug2022 [DevOpsDays Detroit](https://devopsdays.org/events/2022-detroit/welcome/) Getting Started: Embrace Your Inner Child
 * 27aug2022 **LiveStream** Escape Room
 * 03sep2022 **LiveStream** Escape Room
-* 05sep2022 **LiveStream** Open Source Stream
 * 10sep2022 **LiveStream** Escape Room
-* 12sep2022 **LiveStream** Open Source Stream
 * 17sep2022 **LiveStream** Escape Room
-* 19sep2022 **LiveStream** Open Source Stream
 * 24sep2022 **LiveStream** Escape Room
-* 26sep2022 **LiveStream** Open Source Stream
 * 01oct2022 **LiveStream** Escape Room
-* 03oct2022 **LiveStream** Open Source Stream
 * 08oct2022 **LiveStream** Escape Room
-* 10oct2022 **LiveStream** Open Source Stream
 * 15oct2022 **LiveStream** Escape Room
-* 17oct2022 **LiveStream** Open Source Stream
 * 22oct2022 **LiveStream** Escape Room
-* 24oct2022 **LiveStream** Open Source Stream
 * 29oct2022 **LiveStream** Escape Room
 
 ### Past Engagements 2022
+* [KCDC](https://www.kcdc.info/) [Getting Started: Embrace Your Inner Child](https://docs.google.com/presentation/d/1TDanrReBserNLiz8BgMCTmXAL2YeBmG_2VMRxGEvCVI/edit?usp=sharing)
 * [Building a Sustainable Career in Tech](https://twitter.com/i/spaces/1gqxvllgNgkGB?s=20)
 * [Scaling Developer Success by Peritus.ai](https://scalingdevelopersuccess.buzzsprout.com/1884781/10804371-scaling-developer-success-with-rain-leander-appdev-technical-evangelist-cockroach-labs)
 * [The Maintainers of OSS](https://youtu.be/V1Q3xC_EHB0?t=11640)
