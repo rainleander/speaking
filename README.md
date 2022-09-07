@@ -1,7 +1,4 @@
 ### Future Engagements
-* [Replay](https://temporal.io/replay) Shaping the Future of Backend Development
-* 27aug2022 **LiveStream** Escape Room
-* 03sep2022 **LiveStream** Escape Room
 * 10sep2022 **LiveStream** Escape Room
 * 17sep2022 **LiveStream** Escape Room
 * 24sep2022 **LiveStream** Escape Room
@@ -9,9 +6,13 @@
 * 08oct2022 **LiveStream** Escape Room
 * 15oct2022 **LiveStream** Escape Room
 * 22oct2022 **LiveStream** Escape Room
+* 24oct2022 [DoK Day North America 2022](https://dok.community/dok-day-north-america-2022/)
 * 29oct2022 **LiveStream** Escape Room
+* 02nov2022 [All Things Open](https://2022.allthingsopen.org/)
+* 10nov2022 [2022 All Day DevOps](https://www.alldaydevops.com/)
 
 ### Past Engagements 2022
+* [Replay](https://temporal.io/replay) [Shaping the Future of Backend Development](https://youtu.be/vpdkobsDOuU)
 * [KCDC](https://www.kcdc.info/) [Getting Started: Embrace Your Inner Child](https://docs.google.com/presentation/d/1TDanrReBserNLiz8BgMCTmXAL2YeBmG_2VMRxGEvCVI/edit?usp=sharing)
 * [Building a Sustainable Career in Tech](https://twitter.com/i/spaces/1gqxvllgNgkGB?s=20)
 * [Scaling Developer Success by Peritus.ai](https://scalingdevelopersuccess.buzzsprout.com/1884781/10804371-scaling-developer-success-with-rain-leander-appdev-technical-evangelist-cockroach-labs)
