@@ -1,5 +1,4 @@
 ### Future Engagements
-* 10sep2022 **LiveStream** Escape Room
 * 17sep2022 **LiveStream** Escape Room
 * 24sep2022 **LiveStream** Escape Room
 * 01oct2022 **LiveStream** Escape Room
