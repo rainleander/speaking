@@ -5,7 +5,6 @@
 * 08oct2022 **LiveStream** Escape Room
 * 15oct2022 **LiveStream** Escape Room
 * 22oct2022 **LiveStream** Escape Room
-* 24oct2022 [DoK Day North America 2022](https://dok.community/dok-day-north-america-2022/)
 * 29oct2022 **LiveStream** Escape Room
 * 02nov2022 [All Things Open](https://2022.allthingsopen.org/)
 * 10nov2022 [2022 All Day DevOps](https://www.alldaydevops.com/)
