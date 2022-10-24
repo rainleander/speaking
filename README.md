@@ -1,6 +1,4 @@
 ### Future Engagements
-* 19oct2022 [Dash](https://www.dashcon.io/) | [What Users Really Want](https://www.dashcon.io/talks/what-users-really-want/)
-* 22oct2022 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 29oct2022 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 02nov2022 [All Things Open](https://2022.allthingsopen.org/) | [Building an OSS Community Milestone by Milestone](https://2022.allthingsopen.org/sessions/building-an-enduring-open-source-community-milestone-by-milestone/)
 * 05nov2022 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
@@ -12,6 +10,7 @@
 * 17dec2022 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 
 ### Past Engagements 2022
+* 19oct2022 [Dash](https://www.dashcon.io/) | [What Users Really Want](https://www.dashcon.io/talks/what-users-really-want/)
 * [Replay](https://temporal.io/replay) [Shaping the Future of Backend Development](https://youtu.be/vpdkobsDOuU)
 * [KCDC](https://www.kcdc.info/) [Getting Started: Embrace Your Inner Child](https://docs.google.com/presentation/d/1TDanrReBserNLiz8BgMCTmXAL2YeBmG_2VMRxGEvCVI/edit?usp=sharing)
 * [Building a Sustainable Career in Tech](https://twitter.com/i/spaces/1gqxvllgNgkGB?s=20)
