@@ -1,5 +1,4 @@
 ### Future Engagements
-* 29oct2022 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 02nov2022 [All Things Open](https://2022.allthingsopen.org/) | [Building an OSS Community Milestone by Milestone](https://2022.allthingsopen.org/sessions/building-an-enduring-open-source-community-milestone-by-milestone/)
 * 05nov2022 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 10nov2022 [2022 All Day DevOps](https://www.alldaydevops.com/) | Regress to Progress
