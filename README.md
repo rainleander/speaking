@@ -1,11 +1,11 @@
 ### Future Engagements
-* 10nov2022 [2022 All Day DevOps](https://www.alldaydevops.com/) | Regress to Progress
 * 19nov2022 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 03dec2022 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 10dec2022 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 17dec2022 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 
 ### Past Engagements 2022
+* [2022 All Day DevOps](https://www.alldaydevops.com/) | Regress to Progress
 * [All Things Open](https://2022.allthingsopen.org/) | [Building an OSS Community Milestone by Milestone](https://2022.allthingsopen.org/sessions/building-an-enduring-open-source-community-milestone-by-milestone/)
 * [Dash](https://www.dashcon.io/) | [What Users Really Want](https://www.dashcon.io/talks/what-users-really-want/)
 * [Replay](https://temporal.io/replay) [Shaping the Future of Backend Development](https://youtu.be/vpdkobsDOuU)
