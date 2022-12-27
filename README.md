@@ -1,5 +1,18 @@
 ### Future Engagements
 * 31dec2022 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 07jan2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 14jan2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 21jan2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 28jan2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 04feb2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 11feb2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 18feb2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 25feb2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 04mar2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 11mar2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 18mar2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 25mar2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 01apr2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 
 ### Past Engagements 2022
 * [2022 All Day DevOps](https://www.alldaydevops.com/) | Regress to Progress
