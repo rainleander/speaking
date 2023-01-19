@@ -16,7 +16,7 @@
 * [2022 All Day DevOps](https://www.alldaydevops.com/) Regress to Progress
 * [All Things Open](https://2022.allthingsopen.org/) | [Building an OSS Community Milestone by Milestone](https://2022.allthingsopen.org/sessions/building-an-enduring-open-source-community-milestone-by-milestone/)
 * [Dash](https://www.dashcon.io/) | [What Users Really Want](https://www.dashcon.io/talks/what-users-really-want/)
-* [Replay](https://temporal.io/replay) [Shaping the Future of Backend Development](https://youtu.be/vpdkobsDOuU)
+* [Replay](https://temporal.io/replay) | [Shaping the Future of Backend Development](https://youtu.be/vpdkobsDOuU)
 * [KCDC](https://www.kcdc.info/) [Getting Started: Embrace Your Inner Child](https://docs.google.com/presentation/d/1TDanrReBserNLiz8BgMCTmXAL2YeBmG_2VMRxGEvCVI/edit?usp=sharing)
 * [Building a Sustainable Career in Tech](https://twitter.com/i/spaces/1gqxvllgNgkGB?s=20)
 * [Scaling Developer Success by Peritus.ai](https://scalingdevelopersuccess.buzzsprout.com/1884781/10804371-scaling-developer-success-with-rain-leander-appdev-technical-evangelist-cockroach-labs)
