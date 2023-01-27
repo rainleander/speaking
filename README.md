@@ -10,6 +10,7 @@
 * 18mar2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 25mar2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 01apr2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* 24may2023 [DevRel Roundtable Podcast](https://developerrelations.com/devrel-roundtable)
 
 ### Past Engagements 2022
 * [2022 All Day DevOps](https://www.alldaydevops.com/) Regress to Progress
