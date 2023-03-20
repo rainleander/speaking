@@ -1,7 +1,4 @@
 ### Future Engagements
-* 11mar2023 **LiveStream** Escape Room The Secret of the Scientist Part III [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 13-17mar2023 [Python Web Conf](https://2023.pythonwebconf.com/) Regress to Progress
-* 18mar2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 25mar2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 01apr2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 08apr2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
@@ -29,6 +26,7 @@
 * 14-18oct2023 All Things Open
 
 ### Past Engagements 2023
+* [Python Web Conf](https://2023.pythonwebconf.com/) Regress to Progress
 * 13feb2023 [Temporal Community Meetup in London](https://www.meetup.com/temporal-community-meetup/events/291337514/) Diving Into New Technologies: Hacks to Work More Efficiently
 * 14-16feb2023 [PHP UK Conference](https://www.phpconference.co.uk/) [Diving Into New Technologies: Hacks to Work More Efficiently](https://www.youtube.com/watch?v=9r-0RQFRU20&t=28110s)
 
