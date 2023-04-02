@@ -13,7 +13,7 @@
 * 06-08jun2023 Money 20/20
 * 10jun2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 17jun2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 21-23jun2023 Kansas City Developer Conference
+* 21-23jun2023 [Kansas City Developer Conference](https://www.kcdc.info/) Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing
 * 24jun2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 01jul2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 08jul2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
