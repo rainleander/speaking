@@ -11,7 +11,7 @@
 * 24may2023 [DevRel Roundtable Podcast](https://developerrelations.com/devrel-roundtable)
 * 27may2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 02jun2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 06-08jun2023 Money 20/20
+* 06-08jun2023 [Money 20/20](https://europe.money2020.com/)
 * 10jun2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 17jun2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 21-23jun2023 [Kansas City Developer Conference](https://www.kcdc.info/) Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing
