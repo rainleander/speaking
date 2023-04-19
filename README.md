@@ -1,6 +1,4 @@
 ### Future Engagements
-* 19apr2023 [Developer Network Night with Temporal & Weave](https://pages.temporal.io/meetup-slc-2023.html) | Diving Into New Technologies: Hacks to Work More Efficiently
-* 19-27apr2023 [PyCon US](https://us.pycon.org/2023/#)
 * 29apr2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 06may2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 13may2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
@@ -8,17 +6,12 @@
 * 24may2023 [DevRel Roundtable Podcast](https://developerrelations.com/devrel-roundtable)
 * 27may2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 02jun2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 06-08jun2023 [Money 20/20](https://europe.money2020.com/)
 * 17jun2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 21-23jun2023 [Kansas City Developer Conference](https://www.kcdc.info/) Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing
 * 24jun2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 01jul2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 08jul2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 15jul2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 22jul2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 26-29jul2023 [We Are Developers](https://www.wearedevelopers.com/world-congress)
-* 09-10aug2023 [DevOpsDays Chicago](https://devopsdays.org/events/2023-chicago/welcome/)
-* 14-18oct2023 [All Things Open](https://2023.allthingsopen.org/)
 
 ### Past Engagements 2023
 * [Python Web Conf](https://2023.pythonwebconf.com/) Regress to Progress
