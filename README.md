@@ -1,7 +1,5 @@
 ### Future Engagements
-* 29apr2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 06may2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 13may2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 20may2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 24may2023 [DevRel Roundtable Podcast](https://developerrelations.com/devrel-roundtable)
 * 27may2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
