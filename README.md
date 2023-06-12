@@ -1,6 +1,6 @@
 ### Future Engagements
 * 21-22jun2023 [KCDC](https://www.kcdc.info/) Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing
-* fall2023 [TBD] Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
+* fall2023 [TBD]() Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
 * 07-10nov2023 [TechBash](https://www.techbash.com/) Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
 
 ### Past Engagements 2023
