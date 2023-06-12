@@ -1,16 +1,10 @@
 ### Future Engagements
-* 20may2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 24may2023 [DevRel Roundtable Podcast](https://developerrelations.com/devrel-roundtable)
-* 27may2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 02jun2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 17jun2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
 * 21-22jun2023 [KCDC](https://www.kcdc.info/) Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing
-* 01jul2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 08jul2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 15jul2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
-* 22jul2023 **LiveStream** Escape Room [twitch](https://twitch.tv/rainleander) / [youtube](https://youtube.com/rainleander) / [twitter](https://twitter.com/rainleander)
+* fall2023 [TBD] Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
+* 07-10nov2023 [TechBash](https://www.techbash.com/) Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
 
 ### Past Engagements 2023
+* [DevRel Roundtable Podcast](https://developerrelations.com/devrel-roundtable)
 * [Python Web Conf](https://2023.pythonwebconf.com/) Regress to Progress
 * [PHP UK Conference](https://www.phpconference.co.uk/) [Diving Into New Technologies: Hacks to Work More Efficiently](https://www.youtube.com/watch?v=9r-0RQFRU20&t=28110s)
 * [Temporal Community Meetup in London](https://www.meetup.com/temporal-community-meetup/events/291337514/) Diving Into New Technologies: Hacks to Work More Efficiently
