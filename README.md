@@ -77,3 +77,4 @@
 * [StackConf.eu 2020: Leveraging Procedural Knowledge: From Riding a Bike to Bare Metal Automation](https://youtu.be/LSgWN8rdQ5Q)
 * [DevRelCon Earth 2020: The Four Pillars of Support in Developer Relations](https://youtu.be/P_8DnKN9T0g)
 * [Project Teams Gathering Colorado 2018: RDO Community Liaison Interview](https://youtu.be/E6P-p-HssIw)
+* [DevRelCon London 2018: Pass the Torch](https://www.youtube.com/watch?v=epX6Ct88dUk)
