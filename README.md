@@ -1,5 +1,4 @@
 ### Future Engagements
-* 21-22jun2023 [KCDC](https://www.kcdc.info/) Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing
 * fall2023 [TBD]() Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
 * 07-10nov2023 [TechBash](https://www.techbash.com/) Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
 
@@ -10,6 +9,7 @@
 * [Temporal Community Meetup in London](https://www.meetup.com/temporal-community-meetup/events/291337514/) Diving Into New Technologies: Hacks to Work More Efficiently
 
 ### Past Engagements 2022
+* [KCDC 2023](https://www.kcdc.info/) Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing
 * [2022 All Day DevOps](https://www.alldaydevops.com/) Regress to Progress
 * [All Things Open](https://2022.allthingsopen.org/) [Building an OSS Community Milestone by Milestone](https://2022.allthingsopen.org/sessions/building-an-enduring-open-source-community-milestone-by-milestone/)
 * [Dash](https://www.dashcon.io/) [What Users Really Want](https://www.dashcon.io/talks/what-users-really-want/)
