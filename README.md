@@ -1,5 +1,5 @@
 ### Future Engagements
-* fall2023 [TBD]() Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
+* oct2023 [TBD]() Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
 * 07-10nov2023 [TechBash](https://www.techbash.com/) Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
 
 ### Past Engagements 2023
