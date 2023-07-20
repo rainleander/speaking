@@ -5,7 +5,7 @@
 ### Past Engagements 2023
 * [KCDC 2023](https://www.kcdc.info/) Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing
 * [DevRel Roundtable Podcast](https://developerrelations.com/devrel-roundtable)
-* [Python Web Conf](https://2023.pythonwebconf.com/) Regress to Progress
+* [Python Web Conf](https://2023.pythonwebconf.com/) [Regress to Progress](https://www.youtube.com/watch?v=nHUIBzp_ZBQ&list=PLt4L3V8wVnF4GJb8dekLGTNx44FNIFwdv&index=53)
 * [PHP UK Conference](https://www.phpconference.co.uk/) [Diving Into New Technologies: Hacks to Work More Efficiently](https://www.youtube.com/watch?v=9r-0RQFRU20&t=28110s)
 * [Temporal Community Meetup in London](https://www.meetup.com/temporal-community-meetup/events/291337514/) Diving Into New Technologies: Hacks to Work More Efficiently
 
