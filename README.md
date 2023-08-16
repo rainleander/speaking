@@ -1,6 +1,11 @@
 ### Future Engagements
-* oct2023 [TBD]() Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
-* 07-10nov2023 [TechBash](https://www.techbash.com/) Finding Harmony in Distributed Systems: Choreography vs Orchestration in Software Development
+* 18-19sep2023 [Devopsdays Atlanta](https://devopsdays.org/events/2023-atlanta/welcome/)
+* 04oct2023 [ChiWitCon](https://www.chiwomenintech.com/)
+* 15-17oct2023 [All Things Open](https://2023.allthingsopen.org/) 
+* 01-02nov2023 [Devopsdays Montréal](https://devopsdays.org/events/2023-montreal/welcome/)
+* 02-04nov2023 [Longhorn PHP](https://www.longhornphp.com/)
+* 07-10nov2023 [TechBash](https://www.techbash.com/)
+* 06-07dec2023 [Open Source Experience](https://www.opensource-experience.com/en/)
 
 ### Past Engagements 2023
 * [KCDC 2023](https://www.kcdc.info/) Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing
