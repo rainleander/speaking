@@ -4,7 +4,7 @@
 * 18-19oct2023 [DevOpsDays Detroit](https://devopsdays.org/events/2023-detroit/welcome/) Finding Harmony in Distributed Systems
 * 26oct2023 [All Day DevOps](https://www.alldaydevops.com/) Finding Harmony in Distributed Systems
 * 02-04nov2023 [Longhorn PHP](https://www.longhornphp.com/) Finding Harmony in Distributed Systems
-* 06-07dec2023 [Open Source Experience](https://www.opensource-experience.com/en/) Finding Harmony in Distributed Systems
+* 06-07dec2023 [Open Source Experience](https://www.opensource-experience.com/en/) Finding Harmony in Distributed Systems [pending sponsorship]
 
 ### Past Engagements 2023
 * [KCDC 2023](https://www.kcdc.info/) Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing
