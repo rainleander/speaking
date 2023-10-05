@@ -1,5 +1,4 @@
 ### Future Engagements
-* 04oct2023 [ChiWitCon](https://www.chiwomenintech.com/) Diving Into New Technologies
 * 15-17oct2023 [All Things Open](https://2023.allthingsopen.org/) Finding Harmony in Distributed Systems
 * 18-19oct2023 [DevOpsDays Detroit](https://devopsdays.org/events/2023-detroit/welcome/) Finding Harmony in Distributed Systems
 * 26oct2023 [All Day DevOps](https://www.alldaydevops.com/) Finding Harmony in Distributed Systems
@@ -7,6 +6,7 @@
 * 06-07dec2023 [Open Source Experience](https://www.opensource-experience.com/en/) Finding Harmony in Distributed Systems [pending sponsorship]
 
 ### Past Engagements 2023
+* [ChiWitCon](https://www.chiwomenintech.com/) Diving Into New Technologies
 * [KCDC 2023](https://www.kcdc.info/) Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing
 * [DevRel Roundtable Podcast](https://developerrelations.com/devrel-roundtable)
 * [Python Web Conf](https://2023.pythonwebconf.com/) [Regress to Progress](https://www.youtube.com/watch?v=nHUIBzp_ZBQ&list=PLt4L3V8wVnF4GJb8dekLGTNx44FNIFwdv&index=53)
