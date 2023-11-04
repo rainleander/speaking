@@ -1,9 +1,9 @@
 ### Future Engagements
-* 26oct2023 [All Day DevOps](https://www.alldaydevops.com/) Finding Harmony in Distributed Systems
-* 02-04nov2023 [Longhorn PHP](https://www.longhornphp.com/) Finding Harmony in Distributed Systems
 * 06-07dec2023 [Open Source Experience](https://www.opensource-experience.com/en/) Finding Harmony in Distributed Systems
 
 ### Past Engagements 2023
+* [All Day DevOps](https://www.alldaydevops.com/) Finding Harmony in Distributed Systems
+* [Longhorn PHP](https://www.longhornphp.com/) Finding Harmony in Distributed Systems
 * [DevOpsDays Detroit](https://devopsdays.org/events/2023-detroit/welcome/) Finding Harmony in Distributed Systems
 * [All Things Open](https://2023.allthingsopen.org/) Finding Harmony in Distributed Systems
 * [ChiWitCon](https://www.chiwomenintech.com/) Diving Into New Technologies
