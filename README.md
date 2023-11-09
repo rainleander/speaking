@@ -14,7 +14,7 @@
 * [Temporal Community Meetup in London](https://www.meetup.com/temporal-community-meetup/events/291337514/) Diving Into New Technologies: Hacks to Work More Efficiently
 
 ### Past Engagements 2022
-* [2022 All Day DevOps](https://www.alldaydevops.com/) Regress to Progress
+* [All Day DevOps](https://www.alldaydevops.com/) Regress to Progress
 * [All Things Open](https://2022.allthingsopen.org/) [Building an OSS Community Milestone by Milestone](https://2022.allthingsopen.org/sessions/building-an-enduring-open-source-community-milestone-by-milestone/)
 * [Dash](https://www.dashcon.io/) [What Users Really Want](https://www.dashcon.io/talks/what-users-really-want/)
 * [Replay](https://temporal.io/replay) [Shaping the Future of Backend Development](https://youtu.be/vpdkobsDOuU)
